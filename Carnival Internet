@@ -159,19 +159,15 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV Hollywood
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
-http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Enter 10 Bangla
 http://103.55.144.46/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
 http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
-http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
+http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
 
@@ -181,6 +177,8 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla Cinema
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
+http://103.55.144.46/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
@@ -192,7 +190,11 @@ http://103.55.144.46/hls/andpictures.m3u8
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors CINEPLEX
 http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dhin.Chaak HD
+http://103.55.144.46/hls/dhin.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV Hollywood
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY PIX HD
@@ -205,8 +207,7 @@ http://103.55.144.46/hls/movies-now.m3u8
 http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dhin.Chaak HD
-http://103.55.144.46/hls/dhin.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 
@@ -238,8 +239,15 @@ http://103.55.144.46/hls/colore-tv-hd.m3u8
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR Gold-2
 http://103.55.144.46/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Bhojpuri Music
-http://103.55.144.46/hls/bhojpuri.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NICK TV
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",POGO
+http://103.55.144.46/hls/pogo.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", T Sports
 http://103.55.144.46/hls/t-sports.m3u8
@@ -283,14 +291,8 @@ http://103.55.144.46/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", Gazi TV
 http://103.55.144.46/hls/Gazi-TV.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NICK TV
-http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
-http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
-http://103.55.144.46/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",POGO
-http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Bhojpuri Music
+http://103.55.144.46/hls/bhojpuri.m3u8
 
 ---------------------------------------------------------------------
 
@@ -392,8 +394,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://ipflix.click:8080/3rvvs1p95e/w2a1bam3x7/692458
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Outside
-https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Rm8EPd0"group-title="SUMON 4K",Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
@@ -461,7 +461,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",CNA News (Asia) 4K
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?Live-TV™
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK (JAPAN)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",NHK News(JAPAN)
