@@ -375,7 +375,31 @@ http://103.179.246.243:8000/play/a01c
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",SONIC Kids
 http://103.179.246.243:8000/play/a021
 
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Gold 2
+http://103.179.246.243:8000/play/a01q
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Utsav
+http://103.179.246.243:8000/play/a05m
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",UTV Movies
+http://103.179.246.243:8000/play/a01o
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",ZEE BollyWood
+http://103.179.246.243:8000/play/a01r
 
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",EuroSports HD
+http://103.179.246.243:8000/play/a00r
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony SIX
+http://103.179.246.243:8000/play/a00f
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony TEN 1
+http://103.179.246.243:8000/play/a00e
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony TEN 2
+http://103.179.246.243:8000/play/a01a
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony TEN 3 Hindi
+http://103.179.246.243:8000/play/a00k
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Sports Hindi
+http://103.179.246.243:8000/play/a026
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Sports 1
+http://103.179.246.243:8000/play/a00c
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Sports 2
+http://103.179.246.243:8000/play/a00d
 
 ------------------------------------------------------------------------
 
