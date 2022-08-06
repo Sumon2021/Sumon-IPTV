@@ -24,19 +24,22 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla TV", RTV Music
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg"group-title="Bangla TV", Roal TV
-https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg"group-title="Bangla TV", NRB TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg"group-title="Bangla TV", Deshe Bedeshe
-https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", Can Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
@@ -122,8 +125,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",NEXUS TV
-https://cdn.appv.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
@@ -136,6 +137,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", ATN Music
