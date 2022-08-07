@@ -542,5 +542,49 @@ http://v1.catcast.me/content/33816/index.m3u8
 
 -----------------------------------------------------------------
 
+World Network
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
+
 THE END
 
