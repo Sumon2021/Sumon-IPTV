@@ -161,9 +161,12 @@ TATA SKY
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV Hollywood
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
 http://dangguli.live:8080/SonyPix/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
+http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
 http://dangguli.live:8080/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
@@ -190,7 +193,8 @@ http://dangguli.live:8080/SonySAB/index.m3u8
 http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
 http://dangguli.live:8080/ZeeTVHD/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
+http://208.86.19.13:81/624.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",RedBull
 http://dangguli.live:8080/RedBullTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
@@ -328,6 +332,10 @@ http://103.179.246.243:8000/play/a00d
 
 Sumon 4K TV
 
+#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live 4K
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", Global Fashon 4K
@@ -346,8 +354,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PvwD84D" group-title="SUMON 4K",SKY Nature HD
@@ -364,10 +371,17 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 SPORTS.খেলাধুলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD
+http://watchindia.net:8880/live/26490/86400/1067.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Cricket
+http://watchindia.net:8880/live/26490/86400/2090.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Primuer Football
+http://watchindia.net:8880/live/26490/86400/2092.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A-Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull Tv ♥
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -377,36 +391,14 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Euro Sports
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-
-
-
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
-http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports
-http://103.55.144.46/hls/ten.m3u8
+http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
+http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
-http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
-http://103.55.144.46/hls/sonyten2.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports SE.1
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports SE.2
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS.খেলাধুলা",Fox Sports HD (News)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3
-http://103.55.144.46/hls/sonyten3.m3u8
+
 
 ------------------------------------------------------------------------
 
@@ -436,6 +428,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 MUSIC TV
 
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",MTV India
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
@@ -469,25 +463,25 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="MUSIC TV", Metal Music
 https://v2.catcast.tv/content/33816/index.m3u8
 http://v1.catcast.me/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="MUSIC TV",Rock TV 
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 
 -----------------------------------------------------------------
 
 World Network
 
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",ParsianA 2
+http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Movie HUB
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Kids Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",AL-Fajer Movies
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
