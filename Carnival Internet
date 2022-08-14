@@ -95,9 +95,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/s26u0c.png" group-title="Bangla TV",Channel 9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Gazi TV
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png"group-title="Bangla TV", Bangla Tv
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 
@@ -162,138 +159,62 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND Pictures HD
-http://103.55.144.46/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://103.55.144.46/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
-http://103.55.144.46/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR Gold HD
-http://103.55.144.46/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors CINEPLEX
-http://103.55.144.46/hls/colorscineplex.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV Hollywood
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
-http://103.55.144.46/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY PIX HD
-http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR Movies HD
-http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW HD
-http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MNX HD
-http://103.55.144.46/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
-http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
+http://dangguli.live:8080/SonyPix/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World HD
-http://103.55.144.46/hls/star-worldhd.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Travel XP Bangla
-http://103.55.144.46/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat-Geo WILD
-http://103.55.144.46/hls/wild.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat-Geo Bangla
-http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet
-http://103.55.144.46/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Bangla
-http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Scince
-http://103.55.144.46/hls/dis-science.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
-http://103.55.144.46/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",TLC
-http://103.55.144.46/hls/tlc.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dhin.Chaak HD
-http://103.55.144.46/hls/dhin.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Enter 10 Bangla
-http://103.55.144.46/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla
-http://103.55.144.46/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
-http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
-http://103.55.144.46/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
-http://103.55.144.46/hls/sunbangla.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jolsha Bangla Movies
-http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla Cinema
-http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+http://dangguli.live:8080/SonyAath/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
+http://dangguli.live:8080/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla
+http://dangguli.live:8080/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
-http://103.55.144.46/hls/colorsbangla.m3u8
+http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
+http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
+http://dangguli.live:8080/SonyMaxHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
+http://dangguli.live:8080/ZeeCinemaHD/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakinstan)
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
+http://stream.serverbd247.com/hls/sky4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SAB TV
+http://dangguli.live:8080/SonySAB/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY TV
-http://103.55.144.46/hls/sonyen.m3u8
+http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
-http://103.55.144.46/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colore TV
-http://103.55.144.46/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star PLUS
-http://103.55.144.46/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR Gold-2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://dangguli.live:8080/ZeeTVHD/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NICK TV
-http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
-http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
-http://103.55.144.46/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",POGO
-http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",RedBull
+http://dangguli.live:8080/RedBullTVHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
+http://dangguli.live:8080/BBCEarthHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", T Sports
-http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", PTV Sports
-http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Sony SIX
-http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Sony TEN 1
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Sony TEN 2
-http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Sony TEN 3 Hindi
-http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", TEN Sports PK
-http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Star Sports 1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Star Sports 2
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Star Sports 3
-http://103.55.144.46/hls/starsports3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Star Sports SE.1
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Star Sports SE.2
-http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Ten Sports PK
+http://dangguli.live:8080/TenSports/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
+http://dangguli.live:8080/SonySix/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
+http://dangguli.live:8080/SonyTen1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.2
+http://dangguli.live:8080/SonyTen2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.3 Hindi
+http://dangguli.live:8080/SonyTen3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
+http://dangguli.live:8080/StarSports1HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
+http://dangguli.live:8080/StarSports2HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
+http://dangguli.live:8080/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
+http://dangguli.live:8080/StarSportsSelect2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Ekattor News
-http://103.55.144.46/hls/nexus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Somoy News
-http://103.55.144.46/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Jamuna News
-http://103.55.144.46/hls/jamuna.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Duranta TV
-http://103.55.144.46/hls/duranta.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", MasRangla TV
-http://103.55.144.46/hls/masranga.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Channel i
-http://103.55.144.46/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Nagorik TV
-http://103.55.144.46/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Gazi TV
-http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", Bhojpuri Music
 http://103.55.144.46/hls/bhojpuri.m3u8
@@ -445,12 +366,21 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull Tv ♥
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
 https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Euro Sports
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
