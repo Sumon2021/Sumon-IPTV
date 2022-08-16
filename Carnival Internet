@@ -32,8 +32,6 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
 http://dangguli.live:8080/GaanBangla/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",CHANNEL S HD
-https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg"group-title="Bangla TV", Roal TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
@@ -153,6 +151,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png"group-title="Bangla TV", Boishakhi Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",CHANNEL S HD
+https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",The Channel TV
 https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 
@@ -261,8 +262,7 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 http://dangguli.live:8080/BBCEarthHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",RedBull
-http://dangguli.live:8080/RedBullTVHD/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Ten Sports PK
 http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
@@ -281,7 +281,8 @@ http://dangguli.live:8080/StarSports2HD/index.m3u8
 http://dangguli.live:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
 http://dangguli.live:8080/StarSportsSelect2/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",RedBull
+http://dangguli.live:8080/RedBullTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
 http://208.86.19.13:81/624.stream/index.m3u8
@@ -305,6 +306,9 @@ http://103.179.246.243:8000/play/a014
 http://103.179.246.243:8000/play/a012
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
+http://103.179.246.243:8000/play/a015
+
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",& Flix HD
 http://103.179.246.243:8000/play/a00p
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",& Prive HD
@@ -324,8 +328,7 @@ http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star World Premiere HD
 http://103.179.246.243:8000/play/a00a
 
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
-http://103.179.246.243:8000/play/a015
+
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
 http://103.179.246.243:8000/play/a01t
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
