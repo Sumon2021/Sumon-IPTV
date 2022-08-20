@@ -26,12 +26,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Somoy News
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla TV", RTV Music
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
-http://dangguli.live:8080/GaanBangla/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg"group-title="Bangla TV", Roal TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
@@ -171,6 +165,12 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",S TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla TV", RTV Music
+https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
+http://dangguli.live:8080/GaanBangla/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
@@ -181,8 +181,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", ATN Music
 http://dangguli.live:8080/ATNMusic/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
-http://208.86.19.13:81/612.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", Independent News
@@ -207,11 +205,14 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Box Office HD
-http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
+http://dangguli.live:8080/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla HD
+http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
+http://dangguli.live:8080/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
 http://dangguli.live:8080/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
@@ -220,27 +221,10 @@ http://dangguli.live:8080/SonyMaxHD/index.m3u8
 http://dangguli.live:8080/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
 http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony WAH
-http://dangguli.live:8080/SonyWah/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4u KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Toon
-http://dangguli.live:8080/Nick/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha
-http://dangguli.live:8080/StarJalshaHD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla HD
-http://dangguli.live:8080/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla
-http://dangguli.live:8080/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY ATT
-http://dangguli.live:8080/SonyAath/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
-http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
-http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
-
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony WAH
+http://dangguli.live:8080/SonyWah/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakinstan)
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
@@ -253,34 +237,20 @@ http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
 http://dangguli.live:8080/ZeeTVHD/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Toon
+http://dangguli.live:8080/Nick/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
+http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
+http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
 http://dangguli.live:8080/BBCEarthHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Ten Sports PK
-http://dangguli.live:8080/TenSports/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
-http://dangguli.live:8080/SonySix/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
-http://dangguli.live:8080/SonyTen1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.2
-http://dangguli.live:8080/SonyTen2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.3 Hindi
-http://dangguli.live:8080/SonyTen3/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://dangguli.live:8080/StarSports1HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://dangguli.live:8080/StarSports2HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
-http://dangguli.live:8080/StarSportsSelect1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
-http://dangguli.live:8080/StarSportsSelect2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",RedBull
-http://dangguli.live:8080/RedBullTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
 http://208.86.19.13:81/624.stream/index.m3u8
@@ -439,8 +409,7 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
-http://dangguli.live:8080/PTVSports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A-Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD
@@ -449,6 +418,32 @@ http://watchindia.net:8880/live/26490/86400/1067.m3u8
 http://watchindia.net:8880/live/26490/86400/2090.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Primuer Football
 http://watchindia.net:8880/live/26490/86400/2092.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
+http://dangguli.live:8080/PTVSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Ten Sports PK
+http://dangguli.live:8080/TenSports/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
+http://dangguli.live:8080/SonySix/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN.1
+http://dangguli.live:8080/SonyTen1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN.2
+http://dangguli.live:8080/SonyTen2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN.3 Hindi
+http://dangguli.live:8080/SonyTen3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+http://dangguli.live:8080/StarSports1HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
+http://dangguli.live:8080/StarSports2HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports SELECT.1
+http://dangguli.live:8080/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports SELECT.2
+http://dangguli.live:8080/StarSportsSelect2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RedBull
+http://dangguli.live:8080/RedBullTVHD/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull Tv ♥
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -503,14 +498,15 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="MUSiC TV",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Songeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",MTV Beats
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="ext" group-title="MUSiC TV",Show Box
-https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",MTV (Dangguli)
 http://dangguli.live:8080/MTV/tracks-v1a1/mono.m3u8
 
