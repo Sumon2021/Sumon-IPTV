@@ -226,7 +226,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony WAH
 http://dangguli.live:8080/SonyWah/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakinstan)
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
 http://stream.serverbd247.com/hls/sky4.m3u8
@@ -236,6 +236,8 @@ http://dangguli.live:8080/SonySAB/index.m3u8
 http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
 http://dangguli.live:8080/ZeeTVHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
+http://208.86.19.13:81/624.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Toon
 http://dangguli.live:8080/Nick/index.m3u8
@@ -243,19 +245,72 @@ http://dangguli.live:8080/Nick/index.m3u8
 http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
 http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
 http://dangguli.live:8080/BBCEarthHD/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
-http://208.86.19.13:81/624.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 
 
+
+
+--------------------------------------------------------------------
+SUN Direct
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",BBC Earth HD
+http://103.145.184.10:4500/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Fox Life HD
+http://103.145.184.10:4500/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",TLC HD
+http://103.145.184.10:4500/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Pictures HD
+http://103.145.184.10:4500/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE Cinema HD
+http://103.145.184.10:4500/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",MAX HD
+http://103.145.184.10:4500/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star GOLD HD
+http://103.145.184.10:4500/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star GOLD SELECT
+http://103.145.184.10:4500/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Flix HD
+http://103.145.184.10:4500/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Prive HD
+http://103.145.184.10:4500/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star Movies HD
+http://103.145.184.10:4500/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star Movies SELECT
+http://103.145.184.10:4500/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Sony PIX HD
+http://103.145.184.10:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",MN+ HD
+http://103.145.184.10:4500/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",UTV Action
+http://103.145.184.10:4500/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star WORLD
+http://103.145.184.10:4500/play/a002/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",&-TV HD
+http://103.145.184.10:4500/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",SONY TV
+http://103.145.184.10:4500/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star BHARAT
+http://103.145.184.10:4500/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE TV
+http://103.145.184.10:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE CAFE
+http://103.145.184.10:4500/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Colors Inf
+http://103.145.184.10:4500/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Nick HD+
+http://103.145.184.10:4500/play/a01m/index.m3u8
 
 ---------------------------------------------------------------------
 
@@ -268,14 +323,13 @@ http://103.179.246.243:8000/play/a00h
 http://103.179.246.243:8000/play/a00z
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",AND Pictures HD
 http://103.179.246.243:8000/play/a017
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Gold SELECT
-http://103.179.246.243:8000/play/a014
+
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Gold HD
 http://103.179.246.243:8000/play/a012
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Gold SELECT
+http://103.179.246.243:8000/play/a014
 
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
-http://103.179.246.243:8000/play/a015
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",& Flix HD
 http://103.179.246.243:8000/play/a00p
@@ -296,7 +350,8 @@ http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star World Premiere HD
 http://103.179.246.243:8000/play/a00a
 
-
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
+http://103.179.246.243:8000/play/a015
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
 http://103.179.246.243:8000/play/a01t
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
@@ -347,8 +402,6 @@ http://103.179.246.243:8000/play/a01o
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",ZEE BollyWood
 http://103.179.246.243:8000/play/a01r
 
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",EuroSports HD
-http://103.179.246.243:8000/play/a00r
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony SIX
 http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony TEN 1
@@ -363,6 +416,8 @@ http://103.179.246.243:8000/play/a026
 http://103.179.246.243:8000/play/a00c
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Sports 2
 http://103.179.246.243:8000/play/a00d
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",EuroSports HD
+http://103.179.246.243:8000/play/a00r
 
 ------------------------------------------------------------------------
 
