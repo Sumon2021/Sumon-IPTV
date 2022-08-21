@@ -39,6 +39,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", Can Bangla
+https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C1wdPgs"group-title="Bangla TV", Cumilla 24
@@ -57,6 +58,9 @@ https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",PROBASHI BANGLA
+https://live.tvdhaka.com:30443/live/probashi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla TV", Deepto TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
@@ -96,6 +100,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Nagorik TV
 http://dangguli.live:8080/NagorikTV/index.m3u8
+https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Bijoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/playlist.m3u8
@@ -120,13 +125,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/playlist.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg"group-title="Bangla TV", Mohona TV
 http://dangguli.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Oy4OI5c"group-title="Bangla TV", MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Oy4OI5c"group-title="Bangla TV", MY TV
 http://dangguli.live:8080/MyTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png"group-title="Bangla TV", Anando Tv
@@ -227,7 +230,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
 http://dangguli.live:8080/SonyWah/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/611.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ARY Digital (Pakistan)
+http://208.86.19.13:81/821.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
 http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SAB TV
@@ -236,6 +241,8 @@ http://dangguli.live:8080/SonySAB/index.m3u8
 http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
 http://dangguli.live:8080/ZeeTVHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
 http://208.86.19.13:81/624.stream/index.m3u8
 
@@ -245,6 +252,8 @@ http://dangguli.live:8080/Nick/index.m3u8
 http://dangguli.live:8080/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors Bangla
 http://dangguli.live:8080/ColorsBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
+http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
@@ -411,12 +420,7 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A-Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD
-http://watchindia.net:8880/live/26490/86400/1067.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Cricket
-http://watchindia.net:8880/live/26490/86400/2090.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Primuer Football
-http://watchindia.net:8880/live/26490/86400/2092.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
 http://dangguli.live:8080/PTVSports/tracks-v1a1/mono.m3u8
@@ -441,7 +445,12 @@ http://dangguli.live:8080/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RedBull
 http://dangguli.live:8080/RedBullTVHD/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD
+http://watchindia.net:8880/live/26490/86400/1067.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Cricket
+http://watchindia.net:8880/live/26490/86400/2090.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Primuer Football
+http://watchindia.net:8880/live/26490/86400/2092.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull Tv ♥
@@ -542,6 +551,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",AL-Fajer Movies
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network", Star Movies
