@@ -8,6 +8,9 @@ http://dangguli.live:8080/DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", Jago News 24
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",71 News
 http://dangguli.live:8080/EkattorTV/index.m3u8
 
@@ -224,15 +227,21 @@ http://dangguli.live:8080/SonyMaxHD/index.m3u8
 http://dangguli.live:8080/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
 http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4u KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony WAH
 http://dangguli.live:8080/SonyWah/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
-http://208.86.19.13:81/611.stream/index.m3u8
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ARY Digital (Pakistan)
 http://208.86.19.13:81/821.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",GEO HD (Pakistan)
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
 http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SAB TV
@@ -241,10 +250,8 @@ http://dangguli.live:8080/SonySAB/index.m3u8
 http://dangguli.live:8080/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
 http://dangguli.live:8080/ZeeTVHD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
-http://208.86.19.13:81/624.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (PK)
+http://208.86.19.13:81/611.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Toon
 http://dangguli.live:8080/Nick/index.m3u8
@@ -261,7 +268,8 @@ http://dangguli.live:8080/BBCEarthHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
+http://208.86.19.13:81/624.stream/index.m3u8
 
 
 
@@ -502,8 +510,9 @@ MUSIC TV
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",MTV India
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
+http://144.217.70.181:9587/hin2/MUSICINDIA/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="MUSiC TV",Show Box
