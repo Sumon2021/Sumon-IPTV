@@ -203,23 +203,27 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 TATA SKY
 
 
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", Show-Time HD 4K
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",AKamai Movies 4K
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Action Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",AVA Series
+http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha SD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -542,14 +546,14 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 MUSIC TV
 
-#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",MTV India
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
-http://144.217.70.181:9587/hin2/MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
-http://14.199.164.20:4001/play/a0mt/index.m3u8
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",HulChul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="MUSiC TV",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Songeet Bangla
@@ -624,8 +628,8 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Hi-Yah!
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Studio Univers HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
