@@ -6,9 +6,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Jago News 24
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png"group-title="Bangla TV", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
@@ -24,6 +21,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Somoy News
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Jago News 24
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg"group-title="Bangla TV", Roal TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
@@ -40,9 +39,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Meghna TV
-http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Magic Bangla
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
@@ -51,14 +47,15 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Meghna TV
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",PROBASHI BANGLA
 https://live.tvdhaka.com:30443/live/probashi/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",GAZI TV
-https://tv.kotha.im/GTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MaasRangla TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
@@ -83,15 +80,12 @@ https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941038
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-http://dangguli.live:8080/SATV/index.m3u8
+http://208.86.19.13:81/613.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Nagorik TV
-http://dangguli.live:8080/NagorikTV/index.m3u8
-https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Bijoy TV
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/playlist.m3u8
@@ -116,8 +110,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://dangguli.live:8080/MyTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png"group-title="Bangla TV", Anando Tv
+https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 http://stream.serverbd247.com/hls/sky7.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png"group-title="Bangla TV", Movie Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
@@ -130,6 +124,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png"group-title="Bangla TV", Boishakhi Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",মিম টিভি
+http://208.86.19.13:81/502.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
@@ -154,8 +151,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla TV", RTV Music
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
-http://dangguli.live:8080/GaanBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", GaaN Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
@@ -163,10 +158,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", ATN Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV", ATN Music
-http://dangguli.live:8080/ATNMusic/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", Independent News
@@ -205,10 +196,6 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",AKamai Movies 4K
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Action Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",AVA Series
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
