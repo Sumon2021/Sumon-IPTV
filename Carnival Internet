@@ -196,8 +196,8 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",AVA Series
-http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Dream Works 4K
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
 
@@ -617,6 +617,8 @@ https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Studio Univers HD
 http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Network",AVA Series
+http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
