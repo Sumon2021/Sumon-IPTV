@@ -169,6 +169,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",BTV
+http://103.106.2.152:13456/btv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",NEXUS TV
@@ -196,8 +197,7 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Dream Works 4K
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
 
@@ -389,14 +389,9 @@ http://103.179.246.243:8000/play/a00r
 
 Sumon 4K TV
 
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",SUNSet Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live 4K
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", Global Fashon 4K
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", World Fashon 4K
@@ -413,13 +408,20 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",A3-Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rouge TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SUMON 4K",CHIVE-TV
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",Love Nature
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",SUNSet Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live 4K
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PvwD84D" group-title="SUMON 4K",SKY Nature HD
@@ -434,10 +436,8 @@ https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rouge TV
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sofy TV
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+
+
 
 
 ----------------------------------------------------------------------------------------
@@ -448,26 +448,15 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A-Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD
-http://watchindia.net:8880/live/26490/86400/1067.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Cricket
-http://watchindia.net:8880/live/26490/86400/2090.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sky Primuer Football
-http://watchindia.net:8880/live/26490/86400/2092.m3u8
-
-
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",FOX Sports
 http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Now Sports PRIME
-http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull Tv ♥
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -476,8 +465,7 @@ https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
 
 
 
@@ -619,6 +607,10 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Network",AVA Series
 http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Network",Dream Works 4K
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="World Network",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
