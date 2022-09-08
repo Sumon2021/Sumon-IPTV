@@ -565,16 +565,21 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 Cinema Ghor
 
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Wars- The Force Awakens (2021) বাংলা
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Wars: The Force Awakens (2015) বাংলা
 http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/Englisher%20Bangla%20Movie%20~%20Data/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Wars: The Rise of Skywalker (2019) Hindi
+http://103.90.13.8/data/Other_Movie/Dual%20Audio/Star%20Wars%3A%20The%20Rise%20of%20Skywalker%20%282019%29/Star%20Wars%3A%20The%20Rise%20of%20Skywalker%20%282019%29%20720p%20WEB-DL%20Dual%20Audio.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022) Hindi
 https://cdn4506.awsindstream.com/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVClmTtplaORkSplFVklWWqpEaZdlRp5kaGhWTyIFaaRUR14kajBjT6lUP:1662157042:103.149.143.103:065f4ee26e64d9db4440e384f9d2fb22b7c4b38ec54a0a663d232212e1fd3fad/1080/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022)
+http://103.106.238.74/Data4/Movies/Hollywood/2022/Skull%20%282022%29/Skull.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 http://fs.ebox.live/Movies/Hollywood/2022/Prey%20[2022]/Prey.2022.1080p.WEBRip%20[E-BOX].mp4
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022)
-https://cdn.naturalbd.com/hollywood/2022/Prey.2022.DUBBED.COMANCHE.1080p.WEBRip/Prey.2022.DUBBED.COMANCHE.1080p.WEBRip.mp4.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",G.I.Joe- The Rise Of Cobra (2009) Hindi
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",10,000 BC (2008) Hindi
+http://103.90.13.8/data/English_Movie/10%2C000%20BC%20%282008%29/10%2C000%20BC%20%282008%29.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",G.I.Joe: The Rise Of Cobra (2009) Hindi
 http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/English%20Movie%20~%20Data/English%20Action%20~%20Data/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",G.I. Joe: Retaliation (2013) Hindi
+http://103.90.13.8/data/Other_Movie/Dual%20Audio/G.I.%20Joe%3A%20Retaliation%20%282013%29/G.I.%20Joe%3A%20Retaliation%20%282013%29%20720p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20-%20English%20DD%205.1%5D%20ESub.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",John Wick: Chapter 3 (2019) Hindi
 http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/jhon%20weak%20chap3/JW3%202019%20720p%20BR%20ORG_%5Bwww.Fullmaza.org%5D.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Jurassic World (2022) Hindi
@@ -624,10 +629,10 @@ http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%
 http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/GoldenEye%20(1995)%20Dual%20Audio/GoldenEye%20(1995)%20Dual%20Audio%20%20.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Avengers Infinity War (2018) Hindi
 http://cinemacity.live:9090/English%20Dramasrial%20Movie/Avengers%20@%20Series%20~~%20All%20Part/Avengers%20Infinity%20War%202018%20Dual%20Audio%20720p%20~AK@@@/Avengers%20Infinity%20War%202018%20Dual%20Audio%20720p.mkv
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Mission: Impossible - Ghost Protocol (2011)
+http://103.90.13.8/data/Other_Movie/Dual%20Audio/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29%20720p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%205.1%20-%20English%202.0%5D%20ESub.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",A Good Day to Die Hard (2013)
+http://103.90.13.8/data/English_Movie/A%20Good%20Day%20to%20Die%20Hard%20%282013%29/A%20Good%20Day%20to%20Die%20Hard%20%282013%29.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
