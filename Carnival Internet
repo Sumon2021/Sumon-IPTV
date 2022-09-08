@@ -563,62 +563,80 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
 ---------------------------------------------------------------------
 
-SUN Direct
+Cinema Ghor
 
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",BBC Earth HD
-http://103.145.184.10:4500/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Fox Life HD
-http://103.145.184.10:4500/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",TLC HD
-http://103.145.184.10:4500/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Wars- The Force Awakens (2021) বাংলা
+http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/Englisher%20Bangla%20Movie%20~%20Data/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022) Hindi
+https://cdn4506.awsindstream.com/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVClmTtplaORkSplFVklWWqpEaZdlRp5kaGhWTyIFaaRUR14kajBjT6lUP:1662157042:103.149.143.103:065f4ee26e64d9db4440e384f9d2fb22b7c4b38ec54a0a663d232212e1fd3fad/1080/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022)
+http://fs.ebox.live/Movies/Hollywood/2022/Prey%20[2022]/Prey.2022.1080p.WEBRip%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022)
+https://cdn.naturalbd.com/hollywood/2022/Prey.2022.DUBBED.COMANCHE.1080p.WEBRip/Prey.2022.DUBBED.COMANCHE.1080p.WEBRip.mp4.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",G.I.Joe- The Rise Of Cobra (2009) Hindi
+http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/English%20Movie%20~%20Data/English%20Action%20~%20Data/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",John Wick: Chapter 3 (2019) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/jhon%20weak%20chap3/JW3%202019%20720p%20BR%20ORG_%5Bwww.Fullmaza.org%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Jurassic World (2022) Hindi
+https://cdn.naturalbd.com/hollywood/2022/Jurassic.World.3.Dominion.2022.1080p.WEBRip/Jurassic.world.dominion.2022/Jurassic.world.dominion.2022.mp4.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Apocalypto (2006)
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2020/Apocalypto%20%282006%29/Apocalypto.2006.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Burma Conspiracy (2011) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/Largo%20Winch%202%20%282011%29/Largo%20Winch%202%20%282011%29%20Dual%20Audio%20Hindi%20_%20BluRay%20720p%20ESubs.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Eysum (2013) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/Eysum%20%282013%29/%5Bwww.FullMaza.net%5D_Eysum72dual.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Till Death (2021) Hindi
+http://103.106.238.74/Data4/Movies/Hollywood/2021/Till%20Death%20(2021)/Till%20Death%20720p%20BR%20ORG.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Pirates of the Caribbean: Dead Man's Chest (2006) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man%27s%20Chest%20%282006%29/Pirates%20of%20the%20Caribbean%202%20%282006%29%20720p%20BluRay%20Dual%20Audio%20AAC%20x264%20ESubs%20ExtraMovies.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Logan (2017) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/Logan%20%282017%29/LG17DAH72BRESD_%5Bwww.Fullmaza.org%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Hanaa (2011) Hindi
+http://103.106.238.74/Data3/Movie%20222/Hollywood/2000-2017/Hanna%20%282011%29/Hanna%202011%20Dual%20Audio%20Hindi%20www.downloadhub.life%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Martian (2015)
+http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/English%20Movie%20~%20Data/English%20Action%20~%20Data/The%20Martian%20(2015)%20720p%20BluRay%20%20Dual-Audio%20Hindi/The%20Martian%20(2015)%20720p%20BluRay%20%20Dual-Audio%20Hindi%20.mkv
 
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Pictures HD
-http://103.145.184.10:4500/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE Cinema HD
-http://103.145.184.10:4500/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",MAX HD
-http://103.145.184.10:4500/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star GOLD HD
-http://103.145.184.10:4500/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star GOLD SELECT
-http://103.145.184.10:4500/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Flix HD
-http://103.145.184.10:4500/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",& Prive HD
-http://103.145.184.10:4500/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star Movies HD
-http://103.145.184.10:4500/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star Movies SELECT
-http://103.145.184.10:4500/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Sony PIX HD
-http://103.145.184.10:4500/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",MN+ HD
-http://103.145.184.10:4500/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",UTV Action
-http://103.145.184.10:4500/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star WORLD
-http://103.145.184.10:4500/play/a002/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",&-TV HD
-http://103.145.184.10:4500/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",SONY TV
-http://103.145.184.10:4500/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Star BHARAT
-http://103.145.184.10:4500/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE TV
-http://103.145.184.10:4500/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",ZEE CAFE
-http://103.145.184.10:4500/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Colors Inf
-http://103.145.184.10:4500/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SUN Direct",Nick HD+
-http://103.145.184.10:4500/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",K.G.F Chapter 1 (2018)
+http://103.106.238.74/Data3/Movie%20222/Tamil/2018/K.G.F%20Chapter%201%20%282018%29/KGF%20Chapter%201%202018%20WebRip%20Hindi%20720p%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",K.G.F Chapter 2 (2022)
+http://103.106.238.74/Data4/Movies/asif/16-05-2022/hindidub/K.G.F%20Chapter%202%20(2022)/K.G.F%20Chapter%202%202022%201080p%20Hindi%20WEBRip%20AAC5.1%20x264-DesiThor~1.mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Pushpa: The Rise - Part 1 (2021)
+http://103.106.238.74/Data4/Movies/Tamil/2021/Pushpa%20-%20The%20Rise%20(2021)/Pushpa%20-%20The%20Rise%20(2021)%20.mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",RRR (2022)
+http://103.106.238.74/Data4/Movies/Hollywood/2022/RRR%20Hindi%20(2022)/RRR.Hindi.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mp4
 
 
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Casino Royale (2006) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Casino%20Royale%20(2006)%20Dual%20Audio%20[Hindi%20English]%20BRRip%20720p/Casino%20Royale%20(2006)%20Dual%20Audio%20[Hindi%20English]%20BRRip%20720p.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Spectre (2015) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Spectre%202015%20Dual%20Audio%20Hindi%20DD%20%20720p%20BluRay/Spectre%202015%20Dual%20Audio%20Hindi%20DD%20%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Skyfall (2012) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Skyfall%202012%20BRRip%20Dual%20Audio/Skyfall%202012%20BRRip%20Dual%20Audio%20.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Quantum Of Solace (2008) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Quantum%20Of%20Solace%20(2008)%20720p%20BluRay%20Dual%20Audio/Quantum%20Of%20Solace%20(2008)%20720p%20BluRay%20Dual%20Audio.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Die Another Day (2002) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Die%20Another%20Day%202002%20Dual%20Audio/Die%20Another%20Day%202002%20Dual%20Audio%20(1).mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 The World Is Not Enough (1999) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/The%20World%20Is%20Not%20Enough%201999%20Dual%20Audio%20720p%20BluRay/The%20World%20Is%20Not%20Enough%201999%20Dual%20Audio%20720p%20BluRay.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Tomorrow Never Dies (1997) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/Tomorrow%20Never%20Dies%20(199)%20Dual%20Audio/Tomorrow%20Never%20Dies%201997%20Dual%20Audio%20Hindi%20%20720p%20BRRip.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 GoldenEye (1995) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/007%20James%20Bond%20@%20Series%20~~%20All%20Part/GoldenEye%20(1995)%20Dual%20Audio/GoldenEye%20(1995)%20Dual%20Audio%20%20.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Avengers Infinity War (2018) Hindi
+http://cinemacity.live:9090/English%20Dramasrial%20Movie/Avengers%20@%20Series%20~~%20All%20Part/Avengers%20Infinity%20War%202018%20Dual%20Audio%20720p%20~AK@@@/Avengers%20Infinity%20War%202018%20Dual%20Audio%20720p.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
 
 THE END
 
