@@ -195,6 +195,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 TATA SKY
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -203,43 +204,103 @@ http://208.86.19.13:81/723.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
+http://jupiter.bdcabletv.com/And_Picenc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
+http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
+http://116.204.149.11:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
+http://103.162.136.235:4500/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
+http://103.162.136.235:4500/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",WILD HD
+http://103.162.136.235:4500/play/a01c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jolsha
+http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla
+http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jalsha Movies
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-TV HD
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
+http://103.162.136.235:4500/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUB TV
+http://103.162.136.235:4500/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick HD+
+http://103.162.136.235:4500/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",CN HD
+http://jupiter.bdcabletv.com/C-N/video.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",T-Sports
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
+http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
+http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
+http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1 Hindi
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3 Hindi
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
 http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ARY (Pakistan)
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",GEO HD (Pakistan)
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jalsha Movies
-http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
-http://208.86.19.13:81/903.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (PK)
-http://208.86.19.13:81/611.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
-http://208.86.19.13:81/624.stream/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
+http://stream.serverbd247.com/hls/sky4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4u KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (PK)
+http://208.86.19.13:81/611.stream/index.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
+http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
+http://208.86.19.13:81/624.stream/index.m3u8
 
 
 
@@ -397,6 +458,8 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony SIX
 http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
