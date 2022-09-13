@@ -42,6 +42,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Magic Bangla
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",মিম টিভি
+http://208.86.19.13:81/502.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Meghna TV
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/Doyel-TV-.png"group-title="Bangla TV", Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
@@ -51,8 +56,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",মিম টিভি
-http://208.86.19.13:81/502.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",PROBASHI BANGLA
 https://live.tvdhaka.com:30443/live/probashi/chunks.m3u8
@@ -60,6 +63,11 @@ https://live.tvdhaka.com:30443/live/probashi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MaasRangla TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",SA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://208.86.19.13:81/613.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png"group-title="Bangla TV", Channel I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/lplaylist.m3u8
@@ -79,10 +87,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941038
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",SA TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-http://208.86.19.13:81/613.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -96,6 +100,12 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png"group-title="Bangla TV", Bangla Tv
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Bijoy TV
+http://jupiter.bdcabletv.com/Bijoy-TV-IRD/video.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/playlist.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg"group-title="Bangla TV", Mohona TV
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/playlist.m3u8
@@ -182,12 +192,6 @@ http://dangguli.live:8080/DeeptoTV/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Meghna TV
-http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Bijoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/playlist.m3u8
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 ------------------------------------------------------------------------
 Indian Bangla
@@ -195,14 +199,20 @@ Indian Bangla
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Deepto TV (J)
 http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Massranga TV
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD (J)
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD (J)
 http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jalsha Movies (J)
 http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD (J)
 http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Aath (J)
 http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
@@ -221,6 +231,8 @@ http://103.162.136.235:4500/play/a00p/index.m3u8
 http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUB TV
 http://103.162.136.235:4500/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors TV
+http://103.162.136.235:4500/play/a00f/index.m3u8
 
 
 ------------------------------------------------------------------------
@@ -290,33 +302,12 @@ http://jupiter.bdcabletv.com/C-N/video.m3u8
 http://103.162.136.235:4500/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Hungama
 http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",T-Sports (J)
-http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
-http://103.162.136.235:4500/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX (J)
-http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1 (J)
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2 (J)
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1 Hindi
-http://103.162.136.235:4500/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://103.162.136.235:4500/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://103.162.136.235:4500/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3 Hindi
-http://103.162.136.235:4500/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports Select 1 HD
-http://103.162.136.235:4500/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports Select 2 HD
-http://103.162.136.235:4500/play/a00w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
@@ -513,7 +504,33 @@ SPORTS.খেলাধুলা
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports (J)
 http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony SIX
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
+http://103.162.136.235:4500/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX (J)
+http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1 (J)
+http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2 (J)
+http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
+http://103.162.136.235:4500/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1 Hindi
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 3 Hindi
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
 http://103.179.246.243:8000/play/a00e
@@ -577,16 +594,16 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 MUSIC TV
 
-#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",HulChul TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="MUSiC TV",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",HulChul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Songeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Bangla Talkies
