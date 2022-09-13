@@ -123,8 +123,6 @@ http://stream.serverbd247.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png"group-title="Bangla TV", Movie Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Amar Bangla
-http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Matri Bhumi
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
@@ -215,6 +213,8 @@ http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
 http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Aath (J)
 http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
@@ -476,9 +476,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PvwD84D" group-title="SUMON 4K",SKY Nature HD
 http://ipflix.click:8080/3rvvs1p95e/w2a1bam3x7/692458
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",IN Wild
@@ -502,12 +504,21 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports VPN
+http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony LIVE
+https://engbishal.ml/Sonyliv-Barsa.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
+
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports (J)
 http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX (J)
 http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1 (J)
@@ -529,6 +540,9 @@ http://103.162.136.235:4500/play/a013/index.m3u8
 http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
+http://103.162.136.235:4500/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.179.246.243:8000/play/a00f
