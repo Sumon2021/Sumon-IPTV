@@ -123,9 +123,10 @@ http://stream.serverbd247.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png"group-title="Bangla TV", Movie Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",CCN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Matri Bhumi
-http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg"group-title="Bangla TV", Nan TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
@@ -147,6 +148,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Matri Bhumi
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=”http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288”group-title="Bangla TV", Bangla 21
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
@@ -251,14 +254,8 @@ http://jupiter.bdcabletv.com/And_Picenc/video.m3u8
 http://103.162.136.235:4500/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD (J)
 http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
-http://103.162.136.235:4500/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",PLAN B HD
-http://103.162.136.235:4500/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi
-http://103.162.136.235:4500/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
+http://103.162.136.235:4500/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD (J)
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD (J)
@@ -269,14 +266,20 @@ http://116.204.149.11:8000/play/a00a/index.m3u8
 http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://103.162.136.235:4500/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MAX HD
-http://103.162.136.235:4500/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
-http://103.162.136.235:4500/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
 http://103.162.136.235:4500/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sonic
-http://103.162.136.235:4500/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi
+http://103.162.136.235:4500/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MAX HD
+http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life HD
 http://103.162.136.235:4500/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",WILD HD
@@ -289,25 +292,27 @@ http://103.162.136.235:4500/play/a008/index.m3u8
 http://103.162.136.235:4500/play/a00l/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",CN HD (J)
+http://jupiter.bdcabletv.com/C-N/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick HD+
 http://103.162.136.235:4500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick
 http://103.162.136.235:4500/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Jr
 http://103.162.136.235:4500/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",CN HD (J)
-http://jupiter.bdcabletv.com/C-N/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Disney Channel
 http://103.162.136.235:4500/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Hungama
 http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sonic
+http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
 http://103.162.136.235:4500/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",PLAN B HD
+http://103.162.136.235:4500/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
@@ -381,12 +386,13 @@ http://103.179.246.243:8000/play/a00u
 http://103.179.246.243:8000/play/a015
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
 http://103.179.246.243:8000/play/a01t
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Channel 18 Hindi
+http://103.179.246.243:8000/play/a013
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
 http://103.179.246.243:8000/play/a011
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",TLC Hindi
 http://103.179.246.243:8000/play/a027
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Channel 18 Hindi
-http://103.179.246.243:8000/play/a013
+
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
 http://103.179.246.243:8000/play/a00x
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery Hindi
@@ -451,8 +457,8 @@ http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion FRANCE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K", Fashion Mid-Night
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",A3-Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
@@ -463,15 +469,14 @@ https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",CHIVE-TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",SUNSet Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",CHIVE-TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live 4K
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
@@ -504,12 +509,7 @@ SPORTS.খেলাধুলা
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports VPN
-http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony LIVE
-https://engbishal.ml/Sonyliv-Barsa.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
@@ -560,8 +560,6 @@ http://103.179.246.243:8000/play/a00c
 http://103.179.246.243:8000/play/a00d
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
 http://103.179.246.243:8000/play/a00r
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A-Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",FOX Sports
