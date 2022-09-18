@@ -198,14 +198,12 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 Indian Bangla
 ভারত বাংলা
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Deepto TV (J)
-http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Massranga TV
-http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD (J)
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD (J)
 http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Deepto TV (J)
+http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jalsha Movies (J)
 http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla Cinema
@@ -220,7 +218,8 @@ http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Massranga TV
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",&-TV
 http://103.162.136.235:4500/play/a00u/index.m3u8
@@ -782,6 +781,8 @@ http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOV
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/Avengers%20Endgame%20(2019)/Avengers.Endgame.2019.1080p.UHD.BluRay.Hin-Eng.x264.ESub-KatmovieHD.To.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Mission: Impossible - Ghost Protocol (2011)
 http://103.90.13.8/data/Other_Movie/Dual%20Audio/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29%20720p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%205.1%20-%20English%202.0%5D%20ESub.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Mission: Impossible - Fallout (2018)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Mission%3A%20Impossible%20-%20Fallout%20%282018%29/Mission%20Impossible%20-%20Fallout%20%282018%29%20BluRay%20-%201080p%20-%20Original%20%28DD5.1%29%20%5BTelugu%20%2B%20Tamil%20%2B%20Hindi%20%2B%20Eng%5D.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",A Good Day to Die Hard (2013)
 http://103.90.13.8/data/English_Movie/A%20Good%20Day%20to%20Die%20Hard%20%282013%29/A%20Good%20Day%20to%20Die%20Hard%20%282013%29.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Tenet (2020) Hindi
@@ -802,14 +803,14 @@ http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOV
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/It%20Chapter%20Two%20%282019%29/It.Chapter.Two.2019.1080p.BluRay.Hin-Eng.x265.10Bit.DD5.1-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Jurassic World: Fallen Kingdom (2018)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Jurassic%20World%3A%20Fallen%20Kingdom%20%282018%29/Jurassic.World.Fallen.Kingdom.2018.1080p.%5BHindi.5.1-Eng%5D.BluRay.x264-%5BKatmovieHD.Tv%5D.mkv
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Venom (2018)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Venom%20%282018%29/Venom.2018.1080p.BRRip.Hindi.5.1-Eng.x264-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Black Panther (2018)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/Black%20Panther%20%282018%29/Black%20Panther%202018%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%202.0%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ant-Man and the Wasp (2018)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Ant-Man%20and%20the%20Wasp%20%282018%29/Ant%20Man%20and%20the%20Wasp%202018%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",T-34 (2018)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/T-34%20%282018%29/T-34.2019.720p.WEB-DL.Hindi.DD5.1.Dual-Audio.x264-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
