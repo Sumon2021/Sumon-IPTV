@@ -259,6 +259,8 @@ http://103.162.136.235:4500/play/a00k/index.m3u8
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD (J)
 http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies (J)
+http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
 http://116.204.149.11:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
@@ -269,6 +271,8 @@ http://103.162.136.235:4500/play/a004/index.m3u8
 http://103.162.136.235:4500/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi
 http://103.162.136.235:4500/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 
@@ -542,6 +546,8 @@ http://103.162.136.235:4500/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
 http://103.162.136.235:4500/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
+http://146.59.19.1/5031/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.179.246.243:8000/play/a00f
