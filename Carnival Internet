@@ -245,32 +245,42 @@ TATA SKY
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD (J)
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD (J)
-http://jupiter.bdcabletv.com/And_Picenc/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
+http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
+http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
 http://103.162.136.235:4500/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD (J)
-http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
 http://103.162.136.235:4500/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD (J)
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD (J)
-http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies (J)
-http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
+http://103.162.136.235:4500/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
+http://103.162.136.235:4500/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
+http://103.162.136.235:4500/play/a006/index.m3u8
 http://116.204.149.11:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
 http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://103.162.136.235:4500/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BLACK
+http://103.162.136.235:4500/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AXN Spain
+http://103.162.136.235:4500/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
 http://103.162.136.235:4500/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World PREMIER
+http://103.162.136.235:4500/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi HD
+http://103.162.136.235:4500/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi
 http://103.162.136.235:4500/play/a01v/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
