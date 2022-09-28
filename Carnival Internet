@@ -734,6 +734,10 @@ https://cdn4506.awsindstream.com/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", Prey (2022)
 http://103.106.238.74/Data4/Movies/Hollywood/2022/Skull%20%282022%29/Skull.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 http://fs.ebox.live/Movies/Hollywood/2022/Prey%20[2022]/Prey.2022.1080p.WEBRip%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Trek (2009) Hindi
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/2009/Star%20Trek%20(2009)/Star.trek.2009.BRRip.1080p.Hindi-Eng.x264.ESub-KatmovieHD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Van Helsing (2004) Hindi
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2004/Van%20Helsing%20%282004%29/Van%20Helsing%20%282004%29%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD5.1%20640%20Kbps%20-%20English%20DD5.1%5D%20-%20ESUB%20~%20Ranvijay.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Terminator 2: Judgment Day (1991) Hindi
 https://cdn4506.aws-ind-tv-1233.online/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVRJTTUVFMOdVR000VFhnTUVVeORUUx0EVk1mWEt2dPR0a31kekxmWqtWP:1664061197:103.149.143.103:63ef3cc72a72b46818c8a7b046d34a444b714038ed1789f34a89e975f5a00a5f/720/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Terminator 2: Judgment Day (1991) English
@@ -742,7 +746,7 @@ http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/1995-Before//Term
 https://cdn4506.aws-ind-tv-1233.online/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VZVjTE5UaZR1ax00VFNTW6F1dZRFaq5EVVlXT6pVaOdVV310VJRjTHVVP:1664062118:103.149.143.103:6ecdd10cf224338d57ddbd757ce00523577770891110485cae33f1f658fcc9d4/720/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Terminator: Dark Fate (2019) Hindi
 https://cdn4506.aws-ind-tv-1233.online/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRFlXWtVlMORVU5llenRTTqJEbOp3a31kMZhnTExWaZJTRx0keClmWHVUP:1664062662:103.149.143.103:54b97aee301e0d2892cb5ed99b60260fa34a3f6a4bde2cee2f6bdfe0c5c12ac6/1080/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", 10,000 BC (2008) Hindi
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর", 10000 BC (2008) Hindi
 http://103.90.13.8/data/English_Movie/10%2C000%20BC%20%282008%29/10%2C000%20BC%20%282008%29.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",G.I.Joe: The Rise Of Cobra (2009) Hindi
 http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/English%20Movie%20~%20Data/English%20Action%20~%20Data/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip/G.I.%20Joe%20The%20Rise%20Of%20Cobra%202009%20Dual%20Audio%20BRRip.mkv
@@ -807,18 +811,66 @@ http://cinemacity.live:9090/English%20Dramasrial%20Movie/Avengers%20@%20Series%2
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Avengers%3A%20Infinity%20War%20(2018)/Avengers%20Infinity%20War%20(2018)%20Dual%20Audio%20%7BHindi-English%7D%201080p%20BluRay%203GB.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Avengers- EndGame (2019)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/Avengers%20Endgame%20(2019)/Avengers.Endgame.2019.1080p.UHD.BluRay.Hin-Eng.x264.ESub-KatmovieHD.To.mkv
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Incredible Hulk (2008)
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Batman v Superman: Dawn of Justice (2016)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2016/Batman%20v%20Superman%3A%20Dawn%20of%20Justice%20(2016)/Batman%20v%20Superman%20(2016)%20Dual%20Audio%20%7BHindi-English%7D%201080p%20BluRay%202.5GB%20ESub%20[BollYFlix].mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Incredible Hulk (2008) Hindi
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2008/The%20Incredible%20Hulk%20%282008%29/The_Incredible_Hulk_%282008%29_BDRip_1080p_Dual_Audio_Org_DD_%282.0_Hindi-5.1_Eng%29_x264-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Thor: Ragnarok (2017) Hindi
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2017/Thor%3A%20Ragnarok%20%282017%29/Thor%20Ragnarok%202017%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%202.0%5D%20ESub.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Doctor Strange (2016)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2016/Doctor%20Strange%20(2016)/Doctor%20Strange%202016%20BluRay%201080p%20Dual%20Audio%20Hindi%20English%20DD%205.1%20x264%20MSubs-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Captain America: Civil War (2016)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2016/Captain%20America%3A%20Civil%20War%20(2016)/Captain%20America%20Civil%20War%202016%20BluRay%201080p%20[Hindi%20DD%205.1%20+%20English%20DD%205.1]%20x264%20MSubs%20-%20mkvCinemas%20[Telly].mkv
+
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Mission: Impossible - Ghost Protocol (2011)
 http://103.90.13.8/data/Other_Movie/Dual%20Audio/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29/Mission%3A%20Impossible%20-%20Ghost%20Protocol%20%282011%29%20720p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%205.1%20-%20English%202.0%5D%20ESub.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Mission: Impossible - Fallout (2018)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/Mission%3A%20Impossible%20-%20Fallout%20%282018%29/Mission%20Impossible%20-%20Fallout%20%282018%29%20BluRay%20-%201080p%20-%20Original%20%28DD5.1%29%20%5BTelugu%20%2B%20Tamil%20%2B%20Hindi%20%2B%20Eng%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Transporter 1 (2002)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2002/The%20Transporter%20%282002%29/1.%20The%20Transporter%20%282002%29%20720p%20BluRay%20x264%20AC3%20ESub%20Dual%20Audio%20%5BHindi%20ORG%20DD%202.0CH%20%2B%20English%5D%201.10GB.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Transporter 2 (2005)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2005/Transporter%202%20%282005%29/2.%20The%20Transporter%202%20%282005%29%20720p%20BluRay%20x264%20AC3%20ESub%20Dual%20Audio%20%5BHindi%20%20%2B%20English%5D%201000MB.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Transporter 3 (2008)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2008/Transporter%203%20%282008%29/3.%20Transporter%203%20%282008%29%20720p%20BluRay%20x264%20AAC%20ESub%20Dual%20Audio%20%5BHindi%202.0CH%20%2B%20English%5D%201.11GB.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Fast and the Furious (2001)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/The%20Fast%20and%20the%20Furious%20%282001%29/The%20Fast%20and%20the%20Furious%202001%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",2 Fast 2 Furious (2003)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/2%20Fast%202%20Furious%20%282003%29/2%20Fast%202%20Furious%202003%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Fast and the Furious: Tokyo Drift (2006)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%20%282006%29/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%202006%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Fast & Furious 4 (2009)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/Fast%20%26%20Furious%20%282009%29/Fast%20And%20Furious%202009%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Fast Five (2011)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/Fast%20Five%20%282011%29%20/Fast%20And%20Furious%205%202011%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Fast & Furious 6 (2013)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/Fast%20And%20Furious%206%20%282013%29%20/Fast%20And%20Furious%206%202013%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DTS%206CH%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Furious 7 (2015)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/Furious%20Seven%20%282015%29/Furious%20Seven%202015%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Fate of the Furious 8 (2017)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/English%20Movie%20Series%20/Fast%20and%20Furious/The%20Fate%20Of%20The%20Furious%20%282017%29%20/The%20Fate%20of%20the%20Furious%202017%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DTS%206CH%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",A Good Day to Die Hard (2013)
 http://103.90.13.8/data/English_Movie/A%20Good%20Day%20to%20Die%20Hard%20%282013%29/A%20Good%20Day%20to%20Die%20Hard%20%282013%29.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Tenet (2020) Hindi
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2020/Tenet%20%282020%29/Tenet%202020%20BluRay%20720p%20IMAX%20Hindi%20English%20AAC%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Interstellar (2014)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2014/Interstellar%20%282014%29/Interstellar%202014%20iTALiAN%20AC3%20DUAL%20iMAX%20BluRay%201080p%20x264-iG.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Inception (2010)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2010/Inception%282010%29/Inception%202010%20BluRay%20Dual%20Audio%20%5BHindi%205.1%20%2B%20English%205.1%5D%20720p%20x264%20AAC%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Tomorrow War (2021)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2021/The%20Tomorrow%20War%20%282021%29/The%20Tomorrow%20War%20%282021%29%20Dual%20Audio%20%7BHindi-English%7D%201080p%20WEB-DL%202.9GB-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Blade Runner 2049 (2017)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2017/Blade%20Runner%202049%20%282017%29/Blade.Runner.2049.2017.Open.Matte.1080p.BluRay.x265.Hin-Eng.DD5.1-TimepassBD.mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost in the Shell (2017)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2017/Ghost%20in%20the%20Shell%20%282017%29/Ghost.In.The.Shell.2017.1080p.BluRay.Hindi.HQ.Dub.x264-KatmovieHD.se.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Space Sweepers (2021)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/FORIGN_DUBBED_MOVIE/2021/Space%20Sweepers%20%282021%29/Space.Sweepers.2021.1080p.WEB-DL.DD.ENG%2BHIN.5.1.x264-TimepassBD.mp4
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Outside the Wire (2021)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2021/Outside%20the%20Wire%20%282021%29/Outside%20the%20Wire%20%282021%29.1080p.WEB-DL.Hindi-English.x264.MSub-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Godzilla vs. Kong (2021)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/2021/Godzilla%20vs%20Kong%20%282021%29/Godzilla%20vs%20Kong%20%282021%29%20Dual%20Audio%20%7BHindi-English%7D%201080p%20WEB-DL%202.3GB-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Monster Hunter (2020)
@@ -843,8 +895,17 @@ http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOV
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2018/T-34%20%282018%29/T-34.2019.720p.WEB-DL.Hindi.DD5.1.Dual-Audio.x264-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Blood Diamond (2006)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2006/Blood%20Diamond%20%282006%29/Blood%20Diamond%202006%20BluRay%20720p%20%5BHindi%202.0%20%2B%20English%205.1%5D%20x264%20AAC%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Avengement (2019)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/Avengement%20%282019%29/Avengement.2019.UNCUT.1080p.BluRay.Hindi-English.x264.DD5.1-KatmovieHD.io.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Safe House (2012)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2012/Safe%20House%20%282012%29%20/Safe%20House%20%282012%29%20%5BWorldfree4u.Wiki%5D%201080p%20BRRip%20x264%20ESub%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20%2B%20English%20DD%207.1%5D.mkv
 
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Don't Breathe (2016)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/2016/Don%27t%20Breathe%282016%29/Dont.Breathe.2016.720p.BluRay.Hindi.5.1-English.x264.ESub-KatmovieHD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Disturbia (2007)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2007/Disturbia%20%282007%29/Disturbia.2007.BRRip.1080p.Hindi-Eng.x264.ESub-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Other Boleyn Girl (2008)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2008/The%20Other%20Boleyn%20Girl%20%282008%29/The%20Other%20Boleyn%20Girl%20%282008%29%20Dua%20Audio%20%7BHindi-English%7D%201080p%20WEB-DL%202.3GB%20ESub-TimepassBD.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Django Unchained (2012)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2012/Django%20Unchained%20%282012%29/Django%20Unchained%202012%20BluRay%20720p%20%5BHindi%202.0%20%2B%20English%205.1%5D%20AAC%20x264%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Beyond White Space (2018)
@@ -853,12 +914,14 @@ http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOV
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2016/Precious%20Cargo%20%282016%29/Precious%20Cargo%20720p%20BR%20DesireMoVies.KIM.mkv
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Déjà Vu (2006)
 http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2006/Deja%20Vu%20%282006%29/Deja%20Vu%20%282006%29%201080p%20BluRay%20Dual%20Audio%20%5BHindi%2BEnglish%5DSeedUp.mkv
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Sorcerer's Apprentice (2010)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2010/The%20Sorcerer%27s%20Apprentice%20%282010%29/The%20Sorcerers%20Apprentice%20%282010%29%20Dual%20Audio%20Hindi%20%20720p%20BluRay%20x264%20ESubs%20-TimepassBD.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Battle for Sevastopol (2015)
+https://cdn4574.aws-ind-tv-1233.online/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290RFNjTEtGeZJTU1klaS1mWUZUaNRVR5llMa1mWEpVbPRkVs5EVnNTTqFVP:1664396381:103.149.143.103:2ed57bf5938fa5722a51a60c646f825f6e97461f08f41e231c9e9fb8b6c0c4ed/720/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",24 Hours to Live (2017)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/ENGLISH_MOVIES/2017/24%20Hours%20to%20Live%20%282017%29/13.Hours.2016.1080p.BRRip.Hindi.DD5.1.Dual-Audio.x264-KatmovieHD.nl.mkv
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Midway (2019)
+http://ftp.timepassbd.live/timepassbd-data/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2019/Midway%20%282019%29/Midway.2019.1080p.BluRay.Hindi-English.x264.DD5.1-TimepassBD.mkv
 
 
 
