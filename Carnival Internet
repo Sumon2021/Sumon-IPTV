@@ -198,28 +198,16 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 Indian Bangla
 ভারত বাংলা
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD (J)
-http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD (J)
-http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Deepto TV (J)
-http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jalsha Movies (J)
-http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla Cinema
 http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD (J)
-http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
 http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Aath (J)
-http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Massranga TV
-http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",&-TV
 http://103.162.136.235:4500/play/a00u/index.m3u8
@@ -530,17 +518,14 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports (J)
-http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX (J)
-http://jupiter.bdcabletv.com/SonySixHD/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1 (J)
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2 (J)
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.162.136.235:4500/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
+http://103.162.136.235:4500/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
+http://103.162.136.235:4500/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3
+http://103.162.136.235:4500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1 Hindi
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
@@ -554,10 +539,11 @@ http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
 http://146.59.19.1/5031/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
+http://103.162.136.235:4500/play/a03c/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.179.246.243:8000/play/a00f
