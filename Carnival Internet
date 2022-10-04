@@ -195,31 +195,37 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 Indian Bangla
 ভারত বাংলা
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Wazz TV
-http://103.99.249.107:81/play/a03h
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha
 http://103.16.24.54:8080/channel5/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Wazz TV
+http://103.99.249.107:81/play/a03h
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
 http://103.99.249.107:81/play/a00f
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD
 http://103.99.249.107:81/play/a01a
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD
 http://103.99.249.107:81/play/a00l
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
+http://103.147.87.13:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
 http://103.99.249.107:81/play/a01m
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla CINEMA
+http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha MOVIES
 http://103.99.249.107:81/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla Cinema
-http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha MOVIES
+http://103.147.87.13:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",NICK Bangla
 http://103.99.249.107:81/play/a03g
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Cartoon Bangla
-http://103.99.249.107:81/play/a03g
+http://103.99.249.107:81/play/a02u
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
@@ -243,6 +249,18 @@ http://103.162.136.235:4500/play/a00d/index.m3u8
 http://103.162.136.235:4500/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors TV
 http://103.162.136.235:4500/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEmini TV 
+http://103.147.87.13:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",K-TV
+http://103.147.87.13:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",K-TV
+http://103.99.249.107:81/play/a02g
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN TV
+http://103.147.87.13:8000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE KaNNada TV
+http://103.147.87.13:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors MARATHI
+http://103.147.87.13:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
 http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Toy TV
@@ -268,8 +286,7 @@ http://103.162.136.235:4500/play/a00j/index.m3u8
 http://103.162.136.235:4500/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE CinemaLU
 http://103.99.249.107:81/play/a07u
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY", K-TV
-http://103.99.249.107:81/play/a02g
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
 http://103.162.136.235:4500/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
@@ -534,14 +551,7 @@ SPORTS.খেলাধুলা
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",LA-Liga
-http://103.99.249.107:81/play/a05h
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
-http://103.99.249.107:81/play/a02l
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
-http://103.99.249.107:81/play/a07q
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
-http://103.99.249.107:81/play/a06f
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
 
 
@@ -566,11 +576,31 @@ http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",LA-Liga
+http://103.99.249.107:81/play/a05h
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
+http://103.99.249.107:81/play/a07q
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
+http://103.99.249.107:81/play/a06f
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
 http://146.59.19.1/5031/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
 http://103.162.136.235:4500/play/a03c/index.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
+https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ♥
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.179.246.243:8000/play/a00f
@@ -590,18 +620,7 @@ http://103.179.246.243:8000/play/a00d
 http://103.179.246.243:8000/play/a00r
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",FOX Sports
-http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
-https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ♥
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
 
 
 
