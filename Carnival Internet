@@ -203,6 +203,8 @@ http://103.16.24.54:8080/channel5/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Wazz TV
 http://103.99.249.107:81/play/a03h
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Iqra Bangla
+http://87.212.248.44:60530/play/a06d
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
 http://103.99.249.107:81/play/a00f
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD
@@ -210,24 +212,18 @@ http://103.99.249.107:81/play/a01a
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD
 http://103.99.249.107:81/play/a00l
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
-http://103.147.87.13:8000/play/a06x/index.m3u8
+http://103.99.249.107:81/play/a00j
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
 http://103.99.249.107:81/play/a01m
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla CINEMA
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha MOVIES
-http://103.147.87.13:8000/play/a06w/index.m3u8
+http://103.99.249.107:81/play/a00k
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",NICK Bangla
-http://103.99.249.107:81/play/a03g
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Cartoon Bangla
-http://103.99.249.107:81/play/a02u
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
-
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Bangla
+http://103.99.249.107:81/play/a02h
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
 
 
@@ -246,7 +242,7 @@ http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUB TV
 http://103.162.136.235:4500/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors TV
-http://103.162.136.235:4500/play/a00f/index.m3u8
+http://103.99.249.107:81/play/a00v
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Music
 http://103.147.87.13:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN TV
@@ -254,7 +250,7 @@ http://103.147.87.13:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEmini TV 
 http://103.147.87.13:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",K-TV
-http://103.147.87.13:8000/play/a07z/index.m3u8
+http://103.99.249.107:81/play/a02g
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE KaNNada TV
 http://103.147.87.13:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors MARATHI
@@ -268,6 +264,13 @@ http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Toy TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",NICK Bangla
+http://103.99.249.107:81/play/a03g
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Cartoon Bangla
+http://103.99.249.107:81/play/a02u
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
 ------------------------------------------------------------------------
 TATA SKY
 
@@ -277,68 +280,61 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://103.162.136.235:4500/play/a01b/index.m3u8
+http://103.99.249.107:81/play/a009
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://103.162.136.235:4500/play/a00n/index.m3u8
+http://103.99.249.107:81/play/a01c
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-http://103.162.136.235:4500/play/a00h/index.m3u8
+http://103.99.249.107:81/play/a014
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://103.162.136.235:4500/play/a00j/index.m3u8
+http://103.99.249.107:81/play/a016
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
-http://103.162.136.235:4500/play/a00k/index.m3u8
+http://103.99.249.107:81/play/a018
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE CinemaLU
 http://103.99.249.107:81/play/a07u
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
-http://103.162.136.235:4500/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
-http://103.162.136.235:4500/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
-http://103.162.136.235:4500/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
-http://103.162.136.235:4500/play/a006/index.m3u8
-http://116.204.149.11:8000/play/a00a/index.m3u8
+http://103.99.249.107:81/play/a00x
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://103.162.136.235:4500/play/a00m/index.m3u8
+http://103.99.249.107:81/play/a01b
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
+http://103.99.249.107:81/play/a00o
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
+http://103.99.249.107:81/play/a02e
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
+http://103.99.249.107:81/play/a01i
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
-http://103.162.136.235:4500/play/a004/index.m3u8
+http://103.99.249.107:81/play/a00g
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
+http://103.99.249.107:81/play/a01s
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movie Active
+http://103.99.249.107:81/play/a01v
 
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
-http://103.162.136.235:4500/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World PREMIER
-http://103.162.136.235:4500/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi HD
-http://103.162.136.235:4500/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sci-Fi
-http://103.162.136.235:4500/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AXN Spain
-http://103.162.136.235:4500/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BLACK
-http://103.162.136.235:4500/play/a039/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MAX HD
-http://103.162.136.235:4500/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
-http://103.162.136.235:4500/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life HD
-http://103.162.136.235:4500/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",WILD HD
-http://103.162.136.235:4500/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat Geo HD
-http://103.162.136.235:4500/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery HD
-http://103.162.136.235:4500/play/a008/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
-http://103.162.136.235:4500/play/a00l/index.m3u8
+http://103.99.249.107:81/play/a019
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",History HD
+http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat WILD HD
+http://103.99.249.107:81/play/a008
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet HD
+http://103.99.249.107:81/play/a015
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life HD
+http://103.99.249.107:81/play/a01p
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",TLC HD
+http://103.99.249.107:81/play/a00h
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat Geo HD
+http://103.99.249.107:81/play/a00n
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery HD
+http://103.99.249.107:81/play/a00m
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick HD+
@@ -356,7 +352,10 @@ http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
 http://103.162.136.235:4500/play/a01j/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
+http://103.99.249.107:81/play/a03m
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World PREMIER
+http://103.99.249.107:81/play/a00e
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
@@ -403,14 +402,14 @@ Dish TV
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
 http://103.166.102.58:8000/play/a015
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
-http://103.166.102.58:8000/play/a01t
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Channel 18 Hindi
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Hindi
 http://103.166.102.58:8000/play/a013
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
 http://103.166.102.58:8000/play/a00x
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
 http://103.166.102.58:8000/play/a011
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
+http://103.166.102.58:8000/play/a01t
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",TLC Hindi
 http://103.166.102.58:8000/play/a027
 
@@ -553,11 +552,17 @@ SPORTS.খেলাধুলা
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",
-
+http://103.99.249.107:81/play/a02k
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",GAZI Sports
+http://103.99.249.107:81/play/a02m
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",LA-Liga HD
+http://103.99.249.107:81/play/a05h
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeiN Sports 1 EN
+http://103.99.249.107:81/play/a07q
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeiN Sports EXTRA
+http://103.99.249.107:81/play/a07w
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.162.136.235:4500/play/a01a/index.m3u8
@@ -580,22 +585,11 @@ http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",LA-Liga
-http://103.99.249.107:81/play/a05h
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
-http://103.99.249.107:81/play/a02l
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
-http://103.99.249.107:81/play/a07q
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
-http://103.99.249.107:81/play/a06f
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
 http://146.59.19.1/5031/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
-
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
 https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
@@ -605,6 +599,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
+http://103.99.249.107:81/play/a07q
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
+http://103.99.249.107:81/play/a06f
+
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.166.102.58:8000/play/a00f
