@@ -200,28 +200,28 @@ Indian Bangla
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha
 http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Wazz TV
 http://103.99.249.107:81/play/a03h
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Iqra Bangla
 http://87.212.248.44:60530/play/a06d
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
-http://103.99.249.107:81/play/a00f
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD
-http://103.99.249.107:81/play/a01a
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD
-http://103.99.249.107:81/play/a00l
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
-http://103.99.249.107:81/play/a00j
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
 http://103.99.249.107:81/play/a01m
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colours Bangla CINEMA
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha MOVIES
 http://103.99.249.107:81/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
-http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
+http://103.99.249.107:81/play/a00f
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
+http://103.99.249.107:81/play/a00j
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD
+http://103.99.249.107:81/play/a01a
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD
+http://103.99.249.107:81/play/a00l
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Bangla
 http://103.99.249.107:81/play/a02h
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
@@ -287,11 +287,17 @@ http://103.99.249.107:81/play/a01c
 http://103.99.249.107:81/play/a014
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
 http://103.99.249.107:81/play/a016
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
 http://103.99.249.107:81/play/a018
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE CinemaLU
 http://103.99.249.107:81/play/a07u
 
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
+http://103.99.249.107:81/play/a01s
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
 http://103.99.249.107:81/play/a00x
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
@@ -304,18 +310,13 @@ http://103.99.249.107:81/play/a02e
 http://103.99.249.107:81/play/a01i
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://103.99.249.107:81/play/a00g
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
-http://103.99.249.107:81/play/a01s
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movie Active
 http://103.99.249.107:81/play/a01v
 
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
@@ -404,14 +405,17 @@ Dish TV
 http://103.166.102.58:8000/play/a015
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",History Hindi
 http://103.166.102.58:8000/play/a013
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
-http://103.166.102.58:8000/play/a00x
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
 http://103.166.102.58:8000/play/a011
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
 http://103.166.102.58:8000/play/a01t
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",TLC Hindi
 http://103.166.102.58:8000/play/a027
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
+http://103.166.102.58:8000/play/a00x
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery HD
+http://103.166.102.58:8000/play/a00y
+
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony MAX HD
 http://103.147.87.13:8000/play/a06q/index.m3u8
@@ -426,21 +430,20 @@ http://103.166.102.58:8000/play/a014
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",& Flix HD
 http://103.166.102.58:8000/play/a00p
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",& Prive HD
-http://103.166.102.58:8000/play/a01d
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony PIX HD
+http://103.166.102.58:8000/play/a016
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Movies HD
 http://103.166.102.58:8000/play/a00v
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Star Movies SELEC
 http://103.166.102.58:8000/play/a00w
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony PIX HD
-http://103.166.102.58:8000/play/a016
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",& Prive HD
+http://103.166.102.58:8000/play/a01d
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",MN+ HD
 http://103.166.102.58:8000/play/a00u
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",MN-X
 http://103.166.102.58:8000/play/a01h
 
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery HD
-http://103.166.102.58:8000/play/a00y
+
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery Scince Hindi
 http://103.166.102.58:8000/play/a01k
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Nat Geo Wild
@@ -557,12 +560,61 @@ http://103.99.249.107:81/play/a02k
 http://103.99.249.107:81/play/a02m
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Sports
 http://103.99.249.107:81/play/a02l
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
+http://146.59.19.1/5031/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",LA-Liga HD
 http://103.99.249.107:81/play/a05h
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeiN Sports 1 EN
+
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
+http://103.166.102.58:8000/play/a00f
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
+http://103.166.102.58:8000/play/a00e
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
+http://103.166.102.58:8000/play/a01a
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3 Hindi
+http://103.166.102.58:8000/play/a00k
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Hindi
+http://103.166.102.58:8000/play/a026
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+http://103.166.102.58:8000/play/a00c
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
+http://103.166.102.58:8000/play/a00d
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
+http://103.166.102.58:8000/play/a00r
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
+http://103.166.102.58:8000/play/a00f
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
+http://103.166.102.58:8000/play/a00e
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
+http://103.166.102.58:8000/play/a01a
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3 Hindi
+http://103.166.102.58:8000/play/a00k
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Hindi
+http://103.166.102.58:8000/play/a026
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+http://103.166.102.58:8000/play/a00c
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
+http://103.166.102.58:8000/play/a00d
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
+http://103.166.102.58:8000/play/a00r
+
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
+https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ♥
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
 http://103.99.249.107:81/play/a07q
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeiN Sports EXTRA
-http://103.99.249.107:81/play/a07w
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
+http://103.99.249.107:81/play/a06f
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
 http://103.162.136.235:4500/play/a01a/index.m3u8
@@ -584,44 +636,6 @@ http://103.162.136.235:4500/play/a013/index.m3u8
 http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
-http://146.59.19.1/5031/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports
-https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ♥
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
-http://103.99.249.107:81/play/a07q
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
-http://103.99.249.107:81/play/a06f
-
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
-http://103.166.102.58:8000/play/a00f
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
-http://103.166.102.58:8000/play/a00e
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
-http://103.166.102.58:8000/play/a01a
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3 Hindi
-http://103.166.102.58:8000/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Hindi
-http://103.166.102.58:8000/play/a026
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.166.102.58:8000/play/a00c
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
-http://103.166.102.58:8000/play/a00d
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
-http://103.166.102.58:8000/play/a00r
 
 
 
