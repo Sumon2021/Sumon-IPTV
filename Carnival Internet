@@ -31,33 +31,33 @@ https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg"group-title="Bangla TV", NRB TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg"group-title="Bangla TV", Deshe Bedeshe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg"group-title="Bangla TV", দেশ-বিদেশ
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", Can Bangla
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", CAN Bangla
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5gAXKp.jpg"group-title="Bangla TV",Magic Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5gAXKp.jpg"group-title="Bangla TV",ম্যাজিক বাংলা
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cS95bbt.jpg"group-title="Bangla TV",মিম টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Meghna TV
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",মেঘনা টিভি
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/Doyel-TV-.png"group-title="Bangla TV", Doyel TV
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/Doyel-TV-.png"group-title="Bangla TV",দোয়েল টিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of9vW1A.png"group-title="Bangla TV",Deshi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of9vW1A.png"group-title="Bangla TV",দেশী টিভি
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gmbzsjX.jpg" group-title="Bangla TV",MaasRangla TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmbzsjX.jpg" group-title="Bangla TV",মাছরাঙ্গা টিভি
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 
@@ -186,49 +186,49 @@ Indian Bangla
 ভারত বাংলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Ekattor News
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
 http://208.86.19.13:81/675.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Dipto TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দ্বীপ্ত টিভি
 http://208.86.19.13:81/677.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",MEEM TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",মিম টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Channel 52
 http://208.86.19.13:81/503.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",B-Bangla TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",B-বাংলা টিভি
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Amar Bangla
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",স্টার জলসা HD
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",জলসা MOVIES
 http://208.86.19.13:81/609.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",কালারস বাংলা HD
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
 http://208.86.19.13:81/616.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",কালারস বাংলা CINEMA
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা সিনেমা
 http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",জি বাংলা সিনেমা
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE বাংলা সিনেমা
 http://208.86.19.13:81/708.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Pakistan
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY পাকিস্তান
 http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO Pakistan
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO পাকিস্তান
 http://208.86.19.13:81/603.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",EXpress Pakistan
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",EXpress PK
 http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
 http://208.86.19.13:81/825.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV (Pakistan)
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV পাকিস্তান
 http://208.86.19.13:81/513.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",HUm Sitary PK
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",HUM Sitary PK
 http://208.86.19.13:81/692.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",KBS Kids
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",KBS কার্টুন
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",WION News
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",WION নিউজ
 http://208.86.19.13:81/714.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
