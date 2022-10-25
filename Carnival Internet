@@ -192,12 +192,10 @@ http://208.86.19.13:81/675.stream/index.m3u8
 http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",মিম টিভি
 http://208.86.19.13:81/502.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Channel 52
-http://208.86.19.13:81/503.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",B-বাংলা টিভি
 http://208.86.19.13:81/504.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
-http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",জলসা MOVIES
@@ -212,64 +210,33 @@ http://208.86.19.13:81/708.stream/index.m3u8
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO পাকিস্তান
 http://208.86.19.13:81/603.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",EXpress PK
-http://208.86.19.13:81/643.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
-http://208.86.19.13:81/825.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV পাকিস্তান
 http://208.86.19.13:81/513.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",HUM Sitary PK
-http://208.86.19.13:81/692.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",KBS কার্টুন
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",WION নিউজ
-http://208.86.19.13:81/714.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
-http://103.99.249.107:81/play/a01m
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha MOVIES
-http://103.99.249.107:81/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
-http://103.99.249.107:81/play/a00j
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla HD
-http://103.99.249.107:81/play/a01a
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha HD
-http://103.99.249.107:81/play/a00l
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Bangla
-http://103.99.249.107:81/play/a02h
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Channel 52
+http://208.86.19.13:81/503.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",HUM Sitary PK
+http://208.86.19.13:81/692.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",EXpress PK
+http://208.86.19.13:81/643.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
+http://208.86.19.13:81/825.stream/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",&-TV
-http://103.162.136.235:4500/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony TV
-http://103.162.136.235:4500/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE TV
-http://103.162.136.235:4500/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Bharat
-http://103.162.136.235:4500/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Plus HD
-http://103.162.136.235:4500/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUB TV
-http://103.162.136.235:4500/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors TV
-http://103.99.249.107:81/play/a00v
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Music
 http://103.147.87.13:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN TV
 http://103.147.87.13:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEmini TV 
 http://103.147.87.13:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",K-TV
-http://103.99.249.107:81/play/a02g
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE KaNNada TV
 http://103.147.87.13:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors MARATHI
@@ -278,17 +245,7 @@ http://103.147.87.13:8000/play/a081/index.m3u8
 http://103.147.87.13:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Prav
 http://103.147.87.13:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla HD
-http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Toy TV
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",NICK Bangla
-http://103.99.249.107:81/play/a03g
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony Cartoon Bangla
-http://103.99.249.107:81/play/a02u
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 ------------------------------------------------------------------------
 TATA SKY
@@ -296,20 +253,7 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",HOME Video
-http://103.143.235.50:8080/ch3/ch3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time SHOWCASE
-http://89.187.175.143:80/3102/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",StarZ CINEMA
-http://89.187.175.143:80/3103/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Action MAX
-http://89.187.175.143:80/3012/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",EPIX HD
-http://89.187.175.143:80/3020/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",SyFy HD
-http://89.187.175.143:80/3105/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",TNT HD
-http://89.187.175.143:80/3030/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
 http://103.99.249.107:81/play/a009
@@ -349,8 +293,6 @@ http://103.99.249.107:81/play/a01v
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
 http://103.99.249.107:81/play/a019
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",History HD
@@ -367,8 +309,6 @@ http://103.99.249.107:81/play/a00h
 http://103.99.249.107:81/play/a00n
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery HD
 http://103.99.249.107:81/play/a00m
-
-
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick HD+
 http://103.162.136.235:4500/play/a00r/index.m3u8
@@ -428,25 +368,28 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
 http://208.86.19.13:81/624.stream/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",HOME Video
+http://103.143.235.50:8080/ch3/ch3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time SHOWCASE
+http://89.187.175.143:80/3102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",StarZ CINEMA
+http://89.187.175.143:80/3103/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Action MAX
+http://89.187.175.143:80/3012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",EPIX HD
+http://89.187.175.143:80/3020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",SyFy HD
+http://89.187.175.143:80/3105/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TATA SKY",TNT HD
+http://89.187.175.143:80/3030/index.m3u8
+
 --------------------------------------------------------------------
 
 
 Dish TV
 
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
-http://103.166.102.58:8000/play/a015
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Hindi
-http://103.166.102.58:8000/play/a013
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
-http://103.166.102.58:8000/play/a011
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
-http://103.166.102.58:8000/play/a01t
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",TLC Hindi
-http://103.166.102.58:8000/play/a027
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
-http://103.166.102.58:8000/play/a00x
-#EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery HD
-http://103.166.102.58:8000/play/a00y
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Sony MAX HD
@@ -475,6 +418,21 @@ http://103.166.102.58:8000/play/a00u
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",MN-X
 http://103.166.102.58:8000/play/a01h
 
+
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",BBC Earth Hindi
+http://103.166.102.58:8000/play/a015
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",History Hindi
+http://103.166.102.58:8000/play/a013
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Animale Planet Hindi
+http://103.166.102.58:8000/play/a011
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Fox Lifie Hindi
+http://103.166.102.58:8000/play/a01t
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",TLC Hindi
+http://103.166.102.58:8000/play/a027
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",National Geographic HD
+http://103.166.102.58:8000/play/a00x
+#EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery HD
+http://103.166.102.58:8000/play/a00y
 
 #EXTINF:-1 tvg-logo=""group-title="Dish TV",Discovery Scince Hindi
 http://103.166.102.58:8000/play/a01k
@@ -585,57 +543,16 @@ https://cloudflare.tv/hls/live.m3u8
 SPORTS.খেলাধুলা
 
 
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-http://175.41.46.16:8081/hls/4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",STAR Sports 1
-http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",STAR Sports 1*
 http://103.143.235.50:8080/ch5/ch5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
+http://103.143.235.50:8080/ch4/ch4.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A Sports
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
 http://146.59.19.1/5031/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Ten SIX
-http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Ten 1
-http://175.41.46.16:8081/hls/3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-http://103.143.235.50:8080/ch4/ch4.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
-http://103.166.102.58:8000/play/a00f
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
-http://103.166.102.58:8000/play/a00e
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
-http://103.166.102.58:8000/play/a01a
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3 Hindi
-http://103.166.102.58:8000/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Hindi
-http://103.166.102.58:8000/play/a026
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.166.102.58:8000/play/a00c
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
-http://103.166.102.58:8000/play/a00d
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
-http://103.166.102.58:8000/play/a00r
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
-http://103.166.102.58:8000/play/a00f
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
-http://103.166.102.58:8000/play/a00e
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
-http://103.166.102.58:8000/play/a01a
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3 Hindi
-http://103.166.102.58:8000/play/a00k
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Hindi
-http://103.166.102.58:8000/play/a026
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.166.102.58:8000/play/a00c
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
-http://103.166.102.58:8000/play/a00d
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EuroSports HD
-http://103.166.102.58:8000/play/a00r
 
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel
@@ -648,32 +565,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 1
-http://103.99.249.107:81/play/a07q
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BEiN Sports 2
-http://103.99.249.107:81/play/a06f
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony SIX
-http://103.162.136.235:4500/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 1
-http://103.162.136.235:4500/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 2
-http://103.162.136.235:4500/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sony TEN 3
-http://103.162.136.235:4500/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1 Hindi
-http://103.162.136.235:4500/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
-http://103.162.136.235:4500/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 2
-http://103.162.136.235:4500/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 3 Hindi
-http://103.162.136.235:4500/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 1 HD
-http://103.162.136.235:4500/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports Select 2 HD
-http://103.162.136.235:4500/play/a00w/index.m3u8
 
 
 
@@ -689,6 +580,8 @@ http://103.162.136.235:4500/play/a00w/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",DW-TV 4K 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English নিউজ Tv",WION নিউজ
+http://208.86.19.13:81/714.stream/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",TRT News 4k
