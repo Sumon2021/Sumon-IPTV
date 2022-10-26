@@ -543,14 +543,16 @@ https://cloudflare.tv/hls/live.m3u8
 SPORTS.খেলাধুলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",STAR Sports 1*
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",STAR Sports 🅰️
 http://103.143.235.50:8080/ch5/ch5.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
+https://bdiptv2.tk/live/hls/T20WorldCup/Tsports/bdiptv-tk.m3u8
 http://103.143.235.50:8080/ch4/ch4.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A Sports
 http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1⚽
 http://146.59.19.1/5031/index.m3u8
 
 
