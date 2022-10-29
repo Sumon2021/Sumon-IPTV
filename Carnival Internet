@@ -200,8 +200,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",জলসা MOVIES
 http://208.86.19.13:81/609.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
-http://208.86.19.13:81/616.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা সিনেমা
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE বাংলা সিনেমা
@@ -212,13 +210,23 @@ http://208.86.19.13:81/627.stream/index.m3u8
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV পাকিস্তান
 http://208.86.19.13:81/513.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE বাংলা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/5
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star জলসা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/6
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/7
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
+http://208.86.19.13:81/616.stream/index.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",POP কার্টুন
+http://xtream.efiberbd.net:25461/mkaua/stream/13
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",KBS কার্টুন
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Rongeen Toon
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Kaba TV
+http://xtream.efiberbd.net:25461/mkaua/stream/16
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Channel 52
 http://208.86.19.13:81/503.stream/index.m3u8
@@ -256,79 +264,38 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://103.99.249.107:81/play/a009
+http://xtream.efiberbd.net:25461/mkaua/stream/25
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://103.99.249.107:81/play/a01c
+http://xtream.efiberbd.net:25461/mkaua/stream/28
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-http://103.99.249.107:81/play/a014
+http://xtream.efiberbd.net:25461/mkaua/stream/26
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://103.99.249.107:81/play/a016
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav GOLD
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold SELECT
-http://103.99.249.107:81/play/a018
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE CinemaLU
-http://103.99.249.107:81/play/a07u
+http://xtream.efiberbd.net:25461/mkaua/stream/27
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors CINEPLEX
+http://xtream.efiberbd.net:25461/mkaua/stream/29
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",DhinChak
+http://xtream.efiberbd.net:25461/mkaua/stream/30
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
-http://103.99.249.107:81/play/a01s
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
+http://xtream.efiberbd.net:25461/mkaua/stream/31
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
+http://xtream.efiberbd.net:25461/mkaua/stream/34
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
+http://xtream.efiberbd.net:25461/mkaua/stream/35
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
+http://xtream.efiberbd.net:25461/mkaua/stream/33
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
+http://xtream.efiberbd.net:25461/mkaua/stream/42
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
+http://xtream.efiberbd.net:25461/mkaua/stream/41
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
-http://103.99.249.107:81/play/a00x
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://103.99.249.107:81/play/a01b
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
-http://103.99.249.107:81/play/a00o
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
-http://103.99.249.107:81/play/a02e
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
-http://103.99.249.107:81/play/a01i
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
-http://103.99.249.107:81/play/a00g
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movie Active
-http://103.99.249.107:81/play/a01v
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
-http://103.99.249.107:81/play/a019
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",History HD
-http://103.99.249.107:81/play/a017
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat WILD HD
-http://103.99.249.107:81/play/a008
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet HD
-http://103.99.249.107:81/play/a015
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life HD
-http://103.99.249.107:81/play/a01p
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",TLC HD
-http://103.99.249.107:81/play/a00h
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat Geo HD
-http://103.99.249.107:81/play/a00n
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery HD
-http://103.99.249.107:81/play/a00m
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick HD+
-http://103.162.136.235:4500/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick
-http://103.162.136.235:4500/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick Jr
-http://103.162.136.235:4500/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Disney Channel
-http://103.162.136.235:4500/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Hungama
-http://103.162.136.235:4500/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sonic
-http://103.162.136.235:4500/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
-http://103.162.136.235:4500/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World
-http://103.99.249.107:81/play/a03m
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",STAR World PREMIER
-http://103.99.249.107:81/play/a00e
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
@@ -362,27 +329,29 @@ http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
 http://208.86.19.13:81/624.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",HOME Video
-http://103.143.235.50:8080/ch3/ch3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time SHOWCASE
-http://89.187.175.143:80/3102/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",StarZ CINEMA
-http://89.187.175.143:80/3103/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",Action MAX
-http://89.187.175.143:80/3012/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",EPIX HD
-http://89.187.175.143:80/3020/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",SyFy HD
-http://89.187.175.143:80/3105/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY",TNT HD
-http://89.187.175.143:80/3030/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
+http://103.99.249.107:81/play/a019
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",History HD
+http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat WILD HD
+http://103.99.249.107:81/play/a008
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet HD
+http://103.99.249.107:81/play/a015
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life HD
+http://103.99.249.107:81/play/a01p
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",TLC HD
+http://103.99.249.107:81/play/a00h
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat Geo HD
+http://103.99.249.107:81/play/a00n
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery HD
+http://103.99.249.107:81/play/a00m
+
 
 --------------------------------------------------------------------
 
