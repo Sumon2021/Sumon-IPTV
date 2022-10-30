@@ -194,6 +194,12 @@ http://208.86.19.13:81/677.stream/index.m3u8
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",B-বাংলা টিভি
 http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE বাংলা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/5
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star জলসা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/6
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
+http://xtream.efiberbd.net:25461/mkaua/stream/7
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
@@ -210,12 +216,7 @@ http://208.86.19.13:81/627.stream/index.m3u8
 http://208.86.19.13:81/603.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV পাকিস্তান
 http://208.86.19.13:81/513.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE বাংলা HD
-http://xtream.efiberbd.net:25461/mkaua/stream/5
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star জলসা HD
-http://xtream.efiberbd.net:25461/mkaua/stream/6
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
-http://xtream.efiberbd.net:25461/mkaua/stream/7
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
 http://208.86.19.13:81/616.stream/index.m3u8
 
@@ -512,13 +513,15 @@ https://cloudflare.tv/hls/live.m3u8
 SPORTS.খেলাধুলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",STAR Sports 🅰️
-http://103.143.235.50:8080/ch5/ch5.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports
-https://bdiptv2.tk/live/hls/T20WorldCup/Tsports/bdiptv-tk.m3u8
-http://103.143.235.50:8080/ch4/ch4.m3u8
-
+http://xtream.efiberbd.net:25461/mkaua/stream/3
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Gazi TV
+http://xtream.efiberbd.net:25461/mkaua/stream/4
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports 🅰️
+http://xtream.efiberbd.net:25461/mkaua/stream/1
+ 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A Sports
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports 1⚽
