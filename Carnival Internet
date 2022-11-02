@@ -415,21 +415,13 @@ https://cloudflare.tv/hls/live.m3u8
 SPORTS.খেলাধুলা
 
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",T-Sports 🏆
-http://xtream.efiberbd.net:25461/mkaua/stream/3
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Gazi TV 
-http://xtream.efiberbd.net:25461/mkaua/stream/4
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Live
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1🔺
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports
-http://xtream.efiberbd.net:25461/mkaua/stream/1
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports🔺
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports🏆
 http://103.157.249.125:201/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A Sports🅰️
 http://103.157.249.125:201/play/a07c/index.m3u8
@@ -452,7 +444,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports🈴
 https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull⭕
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ⭕
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
