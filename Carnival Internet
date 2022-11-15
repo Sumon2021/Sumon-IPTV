@@ -186,6 +186,10 @@ Indian Bangla
 ভারত বাংলা
 
 
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sanonda TV
+http://c.globalflix.net:8081/live/hotstar/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
 http://208.86.19.13:81/675.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দ্বীপ্ত টিভি
