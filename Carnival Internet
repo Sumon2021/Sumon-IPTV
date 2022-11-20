@@ -2,14 +2,16 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BTV
-http://45.127.244.7:8080/hls/channel9.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",GTV
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/767
 http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",^)0(^
-http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",DD-National
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4037
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
@@ -44,6 +46,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", CAN Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/419
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
@@ -206,15 +209,41 @@ http://208.86.19.13:81/502.stream/index.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
-http://208.86.19.13:81/675.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দ্বীপ্ত টিভি
 http://208.86.19.13:81/677.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
+http://208.86.19.13:81/675.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Ekattor একাত্তর নিউজ
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/428
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Duronto TV
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/433
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Enter 10 Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3801
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/435
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star JOLSHA
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/198
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Srar Jolsha MOVIES
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/425
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/410
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/183
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3753
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",DD Bangla
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4049
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4083
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা সিনেমা
 http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star JOLSHA
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/8540
 
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Global Television
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4231
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY পাকিস্তান
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO পাকিস্তান
@@ -242,39 +271,51 @@ TATA SKY
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV HD
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/1382
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://xtream.efiberbd.net:25461/mkaua/stream/25
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/151
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX UK
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/2441
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://xtream.efiberbd.net:25461/mkaua/stream/28
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/231
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-http://xtream.efiberbd.net:25461/mkaua/stream/26
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/230
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://xtream.efiberbd.net:25461/mkaua/stream/27
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colors CINEPLEX
-http://xtream.efiberbd.net:25461/mkaua/stream/29
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",DhinChak
-http://xtream.efiberbd.net:25461/mkaua/stream/30
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/194
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SELECT
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/210
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Color CINEPLEX
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/867
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Xplor
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4082
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4U Movies
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/6208
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
-http://xtream.efiberbd.net:25461/mkaua/stream/31
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
-http://xtream.efiberbd.net:25461/mkaua/stream/34
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/979
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://xtream.efiberbd.net:25461/mkaua/stream/35
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/147
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
-http://xtream.efiberbd.net:25461/mkaua/stream/33
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/178
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
-http://xtream.efiberbd.net:25461/mkaua/stream/42
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/253
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive HD
-http://xtream.efiberbd.net:25461/mkaua/stream/41
-
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/201
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN-X
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/191
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HBO
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/185
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star WORLD
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/978
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Dubai ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Utsav GOLD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/177
 
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
