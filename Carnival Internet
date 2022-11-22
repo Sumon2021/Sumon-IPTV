@@ -2,15 +2,19 @@
 
 ★Bangla TV
 
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (Cable Dish)
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GTV
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/767
-http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",DD-National
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4037
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (STAR Share)
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports (Pakistan)
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-1 World Cup 2022
+http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-2 World Cup 2022
+http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
