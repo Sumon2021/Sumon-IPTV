@@ -15,6 +15,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-2 World Cup 2022
 http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
