@@ -2,31 +2,25 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (Cable Dish)
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (Cable DishTV)
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (STAR Share)
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports HD
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports (Pakistan)
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Premeum
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",F51 Word Cup 2022
-http://103.161.71.202:8000/play/idne33ecd4/637f469800d07d3d76ba3677.m3u8?q=c819dbf27c1ff0a431df3b96fa19d569
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! (Russia) FHD
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Europ
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup (Japan) SD
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-1 World Cup 2022
 http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-2 World Cup 2022
 http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FIFA World Cup 2022 4K UFHD
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup 2022 4K UFHD
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
