@@ -11,10 +11,18 @@ http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@8
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! (Russia) FHD
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Europ
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup (Japan) SD
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-1 World Cup 2022
 http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-2 World Cup 2022
 http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FIFA World Cup 2022 4K UFHD
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.ts
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Kadak Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
@@ -278,11 +286,9 @@ TATA SKY
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/1382
+http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97886
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/151
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX UK
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/2441
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/231
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
@@ -323,43 +329,6 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/177
 
-
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
-http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (Pakistan)
-http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",GEO HD (Pakistan)
-http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND TV
-http://stream.serverbd247.com/hls/sky4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold
-http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold UK
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4u KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HUM TV (PK)
-http://208.86.19.13:81/611.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla
-http://208.86.19.13:81/903.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Hindi
-http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TATA SKY", UTV HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Peace TV Urdu
-http://208.86.19.13:81/624.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony BBC Earth HD
