@@ -2,22 +2,33 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (Cable DishTV)
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-http://45.127.244.7:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV HD+
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4029
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports (Pakistan)
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Premeum
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports HD
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-1 World Cup 2022
-http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro-2 World Cup 2022
-http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 5 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 6 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup 2022 4K UFHD
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.ts
 
@@ -209,8 +220,6 @@ Indian Bangla
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sanonda TV
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",মিম টিভি
