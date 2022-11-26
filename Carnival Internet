@@ -2,9 +2,9 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (ক্যাবল টিভি)
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports (ক্যাবল টিভি)
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
@@ -20,15 +20,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 1 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 4 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 5 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 6 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup 2022 4K UFHD
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.ts
 
