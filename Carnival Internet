@@ -10,15 +10,17 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS.1 4k
-https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super World Cup 2022
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS.1 FHD
+https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super Football HD
 http://live.nvisionbd.net:8880/live/ssan473/@whoami@/4847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Europ
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",2DF HD (Denmark)
 https://playing.smoothlikebutterstream.com/live/zdfhdde/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Europ
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports (Pakistan)
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports HD
