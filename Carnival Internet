@@ -8,21 +8,30 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV HD+
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4029
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS.1 4k
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super World Cup 2022
+http://live.nvisionbd.net:8880/live/ssan473/@whoami@/4847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Europ
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",2DF HD (Denmark)
+https://playing.smoothlikebutterstream.com/live/zdfhdde/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports (Pakistan)
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/43444
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports HD
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/18452
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV HD+
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4029
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 2 HD
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup 2022 4K UFHD
-http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.ts
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.m3u8
 
 
 
