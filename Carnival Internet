@@ -8,6 +8,8 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports HD
 http://tvs.embedsite.xyz:1936/live/live2_360p/chunklist_w471341551_tkd293emF0b2tlbmVuZHRpbWU9MTY2OTU4NzIyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2Njk1ODAyMjAmd293emF0b2tlbmhhc2g9aTI5Ny00Rk5jWVhzU1Fva1ZleG9Id1pGM3ZwTHViOExPcndvMU12VTFtcz0=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18 HD
+http://202.53.170.254:8080/WorldCup2022/tracks-v1a1/mono.m3u8?token=2eacf574722ef89a647113ed63f8e6211043be5b-c2b640e71ebff8db15f2b941875499d7-1669591205-1669580405
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
