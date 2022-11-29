@@ -8,18 +8,13 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports (ক্যাবল টিভি)
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports HD
-http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-http://tvs.embedsite.xyz:1936/live/live2_360p/chunklist_w471341551_tkd293emF0b2tlbmVuZHRpbWU9MTY2OTU4NzIyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2Njk1ODAyMjAmd293emF0b2tlbmhhc2g9aTI5Ny00Rk5jWVhzU1Fva1ZleG9Id1pGM3ZwTHViOExPcndvMU12VTFtcz0=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18 HD
-http://202.53.170.254:8080/WorldCup2022/tracks-v1a1/mono.m3u8?token=2eacf574722ef89a647113ed63f8e6211043be5b-c2b640e71ebff8db15f2b941875499d7-1669591205-1669580405
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super Football HD
-http://live.nvisionbd.net:8880/live/ssan473/@whoami@/4847.m3u8
+http://202.53.170.254:8080/WorldCup2022/tracks-v1a1/mono.m3u8?token=3fcfeefb37011909d66dc115d97615b124a29b62-447abc4e579f87e8ee1e0fa3e342325f-1669760168-1669749368
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Euro
@@ -28,8 +23,8 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 1 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 2 HD
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup 2022 4K UFHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX 4K UFHD
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.m3u8
 
 
