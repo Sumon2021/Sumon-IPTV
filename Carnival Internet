@@ -15,8 +15,21 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18 HD
-http://202.53.170.254:8080/WorldCup2022/tracks-v1a1/mono.m3u8?token=3fcfeefb37011909d66dc115d97615b124a29b62-447abc4e579f87e8ee1e0fa3e342325f-1669760168-1669749368
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-1 USA FHD
+https://turnthe.gameon.tel/live/fs1us/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-2 USA FHD
+https://turnthe.gameon.tel/live/fs2us/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports FHD
+http://tv2.efiberbd.net:8080/mkaua/stream/1
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Euro
