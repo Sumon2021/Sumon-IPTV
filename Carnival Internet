@@ -26,8 +26,8 @@ https://turnthe.gameon.tel/live/fs2us/index.m3u8
 http://tv2.efiberbd.net:8080/mkaua/stream/1
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV INDIA 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
-
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",i-Love
+https://tv.freeseries.eu.org/live.php?c=iLove&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",
@@ -240,6 +240,8 @@ http://208.86.19.13:81/502.stream/index.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Khusboo TV
+https://tv.freeseries.eu.org/live.php?c=Khusboo_TV&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দ্বীপ্ত টিভি
 http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
@@ -251,7 +253,7 @@ http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Enter 10 Bangla
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3801
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/435
+https://tv.freeseries.eu.org/live.php?c=Zee_Bangla_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star JOLSHA
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/198
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Srar Jolsha MOVIES
@@ -301,30 +303,45 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth Hindi
+https://tv.freeseries.eu.org/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/97886
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/151
+https://tv.freeseries.eu.org/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/231
+https://tv.freeseries.eu.org/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/230
+https://tv.freeseries.eu.org/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema
+https://tv.freeseries.eu.org/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/194
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=ts&play_token=MCXI8zLmSU
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SELECT
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/210
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862739&extension=ts&play_token=CxHz3ouSpY
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Color CINEPLEX
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/867
+https://tv.freeseries.eu.org/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Xplor
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4082
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4U Kadak
+https://tv.freeseries.eu.org/live.php?c=B4U_Kadak&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Bollywood
+https://tv.freeseries.eu.org/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Anmol CINEMA
+https://tv.freeseries.eu.org/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Enter 10
+https://tv.freeseries.eu.org/live.php?c=Enterr_10&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",B-Flix Movies
+https://tv.freeseries.eu.org/live.php?c=Bflix_Movies&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4U Movies
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/6208
 
+
+https://tv.freeseries.eu.org/live.php?c=Green_Chillies_TV&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/979
+http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862740&extension=ts&play_token=oQE82w6zj8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/147
+https://tv.freeseries.eu.org/live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/178
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix HD
@@ -510,6 +527,13 @@ https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",HulChul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Sangeet Bhojpuri
+https://tv.freeseries.eu.org/live.php?c=Sangeet_Bhojpuri&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",B4U Bhojpuri
+https://tv.freeseries.eu.org/live.php?c=B4U_Bhojpuri&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Bhojpuri Cinema
+https://tv.freeseries.eu.org/live.php?c=Bhojpuri_Cinema&q=1200&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Songeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Bangla Talkies
@@ -620,6 +644,37 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 ---------------------------------------------------------------------
 
 Cinema Ghor
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kung Fu Hustle 2004
+https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keClmTHV0dPdUT4p1VFBjWXFFNORFbtl1VGpmWtZUbZp3az40VKx2TXVVP:1670023687:103.149.143.103:8118bc8161000b41f977472f6a8f1415ac8574a023a243d3ada7c29122b8cfc6/1080/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kite 2014
+https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaFlnWEhWbZ1mRt1kenVjWHZVbPRUQxkleWxmT6FENNRkQqllMOxWT6FUP:1670029262:103.149.143.103:0867ca8277e88e664a58455d05fd0ad8dfdc93e5b8086f0c637c82b373abc72c/720/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",RED 2 (2013)
+https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleClmWqFEeOREZs5kaFVTT6tWNNpXS4pFVk1WW6t2MNdkVqlFVolmTq1UP:1670029463:103.149.143.103:07cfcc34efe2687ad6e72a2a172cec9e5c9fb6ba238101725fef7cab2206f15f/1080/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider 2007
+https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaJlXTyYEbOpXU5pFRkxWWtpVbO1WUw0kajpnTHFFNPRlTp5ERotmWXlUP:1670029655:103.149.143.103:201ffa6a60edf2538a1a49bfb03a47adbd19aba84ee1200e36896b6b1405adc7/480/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider 2 Spirit of Vengeance 2012
+https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290VSxmWEt2dapWWy4kaFVjWE5EbO1WT450RO1WTEJUaNp3Yy80RKtmTqtWP:1670030707:103.149.143.103:f580cb5cece38f18d84280782daa7966d45785e23e79db3da8e1e10c32833952/720/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Behind Enemy Lines 2001
+https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMRd3TEhWbOpmUq50ROp2TEt2MZpWR450RNpXTUFENO1mVq1ERFRjTEFUP:1670029937:103.149.143.103:96a271bdacb02cc34c01019a38e1707fa963a430d0135467cb333bf408a84e54/720/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Jack Reacher (Never Go Back) 2016
+https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1VZBzTEhGbNp3Y10ERktmWE1keN1mWr1kajdXWXV1daRUSz0UbZRjTyUVP:1670030191:103.149.143.103:8530f83f7bfb6ee0fd04be8f8e9e2cb371ffbfe840dc3c845b57b7cb5d773302/1080/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Tourist 2010
+https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llMOtmWqJUbORlWo90VRdXWyUVeadkUrpFVBVzTUhWaOdVVwkleVNTTtlVP:1670030612:103.149.143.103:d72e172e133c9f42282b4ea657e04a9edcc65e4b13da959da73bf8b07d822ff4/720/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",The Wolf of Wall Street 2013 (18+)
+https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llenRjTENWePRVT45EVjdnWXpEaO1WT00EVrVjTy4UaORUR100VaxmTyUVP:1669856803:103.149.143.103:8360069a848b7089b88448aaa01664656f0144a021ca35a239206495c722e3ea/1080/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Star Wars: The Force Awakens (2015) বাংলা
 http://cinemacity.live:9090/New%20Collection/28.06.2021/Data/Chobi%20~%20Data/Englisher%20Bangla%20Movie%20~%20Data/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed/Star%20Wars%20The%20Force%20Awakens%20(2021)%20Bengali%20Dubbed.mkv
