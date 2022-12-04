@@ -232,6 +232,8 @@ Indian Bangla
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sananda TV
+http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",মিম টিভি
