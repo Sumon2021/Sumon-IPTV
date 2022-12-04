@@ -2,14 +2,7 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (ক্যাবল টিভি)
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports (IPTV)
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports (ক্যাবল টিভি)
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports (IPTV)
-http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.2
@@ -17,32 +10,30 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-1 USA FHD
-https://turnthe.gameon.tel/live/fs1us/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-2 USA FHD
-https://turnthe.gameon.tel/live/fs2us/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-1 FHD
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-2 FHD
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports HD
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super Sports SELECT
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56765.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",A-Sports FHD
-http://tv2.efiberbd.net:8080/mkaua/stream/1
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV INDIA 🇮🇳
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",i-Love
-https://tv.freeseries.eu.org/live.php?c=iLove&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
-
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Fox CRICKET 501
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/57493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super CRICKET
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",ASTRO CRICKET
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/231004.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports Euro
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",i-Love
+https://tv.freeseries.eu.org/live.php?c=iLove&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN SPORTS Max 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX 4K UFHD
-http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+
+
 
 
 
@@ -248,28 +239,7 @@ https://tv.freeseries.eu.org/live.php?c=Khusboo_TV&q=1200&e=junk.m3u8
 http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
 http://208.86.19.13:81/675.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Ekattor একাত্তর নিউজ
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/428
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Duronto TV
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/433
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Enter 10 Bangla
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3801
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
-https://tv.freeseries.eu.org/live.php?c=Zee_Bangla_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star JOLSHA
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/198
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Srar Jolsha MOVIES
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/425
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla CINEMA
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/410
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors Bangla
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/183
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",SUN Bangla
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/3753
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",DD Bangla
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4049
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4083
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা সিনেমা
