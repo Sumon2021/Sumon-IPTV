@@ -3,21 +3,20 @@
 ★Bangla TV
 
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
+http://103.143.235.50:8080/102/102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+http://103.143.235.50:8080/101/101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.2
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee Free
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-1 FHD
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS-1 FHD
+https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234955.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FOX Sports-2 FHD
-http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TyC Sports HD
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Super Sports SELECT
-http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Fox CRICKET 501
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/57493.m3u8
@@ -25,10 +24,7 @@ http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/57493.m3u8
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56761.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",ASTRO CRICKET
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/231004.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",i-Love
-https://tv.freeseries.eu.org/live.php?c=iLove&q=1200&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",
 
