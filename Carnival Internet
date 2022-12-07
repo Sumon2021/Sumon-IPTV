@@ -7,14 +7,22 @@
 http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
 http://103.143.235.50:8080/101/101.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.1
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee HD
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee VIP.1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",World Cup Toffee VIP.2
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee VIP.2
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS-1 FHD
 https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN Sports EXTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -26,8 +34,8 @@ http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/56761.m3u8
 http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/231004.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
-
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",ShowBox Music
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 
 
