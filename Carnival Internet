@@ -5,16 +5,12 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
 http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
-http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee VIP
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee Sports
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",FS-1 FHD
-https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8
-http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/234955.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN Sports EXTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
