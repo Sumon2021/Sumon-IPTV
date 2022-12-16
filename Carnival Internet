@@ -8,7 +8,8 @@ http://103.197.204.248:80/s-1-tsports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
 http://103.197.204.248:80/s-2-gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee HD 🏆
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee VIP 🏆
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
@@ -206,6 +207,7 @@ Indian Bangla
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sananda TV
+http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
 http://103.143.235.50/zeebanglahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha
