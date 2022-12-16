@@ -4,15 +4,18 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+http://103.197.204.248:80/s-1-tsports/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+http://103.197.204.248:80/s-2-gtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee Sports
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee HD 🏆
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",BeIN Sports EXTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Bein Sports max 1
+http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -219,15 +222,6 @@ http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
 http://208.86.19.13:81/675.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony আট
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা সিনেমা
-http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star JOLSHA
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/8540
-
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Global Television
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4231
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY পাকিস্তান
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO পাকিস্তান
@@ -240,12 +234,6 @@ http://208.86.19.13:81/692.stream/index.m3u8
 http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
 http://208.86.19.13:81/825.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Colors বাংলা HD
-http://208.86.19.13:81/616.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",KBS কার্টুন
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
 
 
 ------------------------------------------------------------------------
@@ -338,55 +326,52 @@ http://103.99.249.107:81/play/a00m
 
 Sumon 4K TV
 
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",CHIVE-TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Rm8EPd0"group-title="SUMON 4K",Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", Global Fashon 4K
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", World Fashon 4K
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion FRANCE
+#EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K", Fashion Mid-Night
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",A3-Bikini
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",People Are Awesome 
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SUMON 4K",CHIVE-TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",SEX HOT
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923098
 
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",SUNSet Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live 4K
+
+#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://sledovanitv.cz/cache/logos256/love_nature.png" group-title="SUMON 4K",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/PvwD84D" group-title="SUMON 4K",SKY Nature HD
 http://ipflix.click:8080/3rvvs1p95e/w2a1bam3x7/692458
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Rm8EPd0"group-title="SUMON 4K",Luxury World
-http://nano.teleservice.su:8080/hls/luxury.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Cloudflare TV
-https://cloudflare.tv/hls/live.m3u8
+
 
 
 
@@ -395,36 +380,12 @@ https://cloudflare.tv/hls/live.m3u8
 SPORTS.খেলাধুলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",PTV Live
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Star Sports 1🔺
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",TEN Sports🏆
-http://103.157.249.125:201/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",A Sports🅰️
-http://103.157.249.125:201/play/a07c/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow HD 
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow EXTRA🚫
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Super Cricket⭐
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253716
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Super Sports⭐
-http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160971
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Sports One ⚽
-http://146.59.19.1/5031/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel 🎾
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports🈴
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports⭐
 https://edgesport-samsungus.amagi.tv/playlist1080p.m3u8
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull ⭕
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS.খেলাধুলা",Red Bull⭐
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Out Side Plus
