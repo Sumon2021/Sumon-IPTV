@@ -25,6 +25,24 @@ http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MAT 4! FHD (Russia)
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",beIN Sports HD 1 Max FHD
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252238
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",beIN Sports HD 2 Max FHD
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252235
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",beIN Sports HD 3 Max FHD
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252232
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",beIN Sports HD 4 Max FHD
+http://cdn.wanaiptv.net:2052/cremtv.com/123450/252229
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
@@ -249,6 +267,8 @@ http://208.86.19.13:81/692.stream/index.m3u8
 http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
 http://208.86.19.13:81/825.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Chu.Chu TV
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
 
 
 ------------------------------------------------------------------------
@@ -280,12 +300,14 @@ http://103.143.235.50/andpictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
 http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
+http://102.222.232.18:9981/stream/channelid/1452596058?ticket=AE8BB41DABA59229CEA2B53D7DC1EDCAFF44D49E&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-https://tv.freeseries.eu.org/live.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-https://tv.freeseries.eu.org/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-https://tv.freeseries.eu.org/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+http://102.222.232.18:9981/stream/channelid/1036629778?ticket=3D29B1AE82A95A2FA670537E033C321E70878317&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema
 https://tv.freeseries.eu.org/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
@@ -362,6 +384,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Rm8EPd0"group-title="SUMON 4K",Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Rm8EPd0"group-title="SUMON 4K",Nature 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/187
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="SUMON 4K", Global Fashon 4K
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
@@ -518,16 +542,31 @@ https://distroscale-public.s3-us-west-2.amazonaws.com/strm/channels/darkmatter/v
 https://dmtv-viziosc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Doctor Who
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC 2 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC 3 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/193
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC MAX 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC Action 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC Bollywood
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/208
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Zee Aflam
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/334
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",B4U Aflam
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/337
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC Persia 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/218
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC Drama+ 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/206
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",MBC Power 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/199
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Mix Hollywood
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",CRACKLE
 https://crackle-plex.amagi.tv/playlist720p.m3u8
