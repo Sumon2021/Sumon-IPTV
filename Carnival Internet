@@ -13,9 +13,8 @@ http://103.143.235.50/SONY_SportsTen5_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",SONY Sports 1
 http://103.143.235.50/sonyten1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Toffee VIP 🏆
-http://tv.maguraplex.net:8000/live/toffee/index.m3u8
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",T-Sports🏆
+http://humiptv.live:8080/live/arijit38815/A437638815/52500.ts
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",GAZI Sports
@@ -229,14 +228,21 @@ Indian Bangla
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Tom & Jerry
+http://humiptv.live:8080/live/arijit38815/A437638815/3545.ts
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sananda TV
 http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ZEE Bangla
-http://103.143.235.50/zeebanglahd/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/23305.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98881.ts
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Star Jolsha
-http://103.143.235.50/starjalsha/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/23218.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98883.ts
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Jolsha Movies
-http://103.143.235.50/jalshamovies/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/23304.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98884.ts
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ColorS Bangla
+http://humiptv.live:8080/live/arijit38815/A437638815/23306.ts
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ColorS Cinema
 http://103.143.235.50/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
@@ -277,45 +283,59 @@ TATA SKY
 
 #EXTINF:-1 tvg-logo="" group-title="TATA SKY",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV HD
+http://humiptv.live:8080/live/arijit38815/A437638815/11737.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
-http://103.143.235.50/starmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
-http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/98842.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
+http://humiptv.live:8080/live/arijit38815/A437638815/98843.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix
+http://humiptv.live:8080/live/arijit38815/A437638815/9382.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98841.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/9381.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Prive
+http://humiptv.live:8080/live/arijit38815/A437638815/201.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star WORLD
-http://103.143.235.50/star-worldhd/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/98844.ts
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth Hindi
-http://103.143.235.50/bbcearth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat WILD
-http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet Hindi
-http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/7721.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98871.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/9396.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nat WILD Hindi
+http://humiptv.live:8080/live/arijit38815/A437638815/7344.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/9395.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life Bangla
+http://humiptv.live:8080/live/arijit38815/A437638815/98876.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",History Hindi
+http://humiptv.live:8080/live/arijit38815/A437638815/98877.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet
+http://humiptv.live:8080/live/arijit38815/A437638815/9391.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Bangla
-http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/9393.ts
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://103.143.235.50/andpictures/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
-http://102.222.232.18:9981/stream/channelid/1452596058?ticket=AE8BB41DABA59229CEA2B53D7DC1EDCAFF44D49E&profile=matroska
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MTV Beats
+http://humiptv.live:8080/live/arijit38815/A437638815/23792.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SONY MAX HD
-http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
+http://humiptv.live:8080/live/arijit38815/A437638815/9373.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98857.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Picture HD
-http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
+http://humiptv.live:8080/live/arijit38815/A437638815/9372.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98856.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema HD
-http://102.222.232.18:9981/stream/channelid/1036629778?ticket=3D29B1AE82A95A2FA670537E033C321E70878317&profile=matroska
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Zee Cinema
-https://tv.freeseries.eu.org/live.php?c=Zee_Cinema&q=1200&e=junk.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/9374.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98860.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD HD
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862738&extension=ts&play_token=MCXI8zLmSU
+http://humiptv.live:8080/live/arijit38815/A437638815/9375.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98858.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SELECT
-http://infusumtv.co.uk:8880/play/live.php?mac=00:1A:79:4b:27:c6&stream=862739&extension=ts&play_token=CxHz3ouSpY
+http://humiptv.live:8080/live/arijit38815/A437638815/9376.ts
+http://humiptv.live:8080/live/arijit38815/A437638815/98859.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Color CINEPLEX
-https://tv.freeseries.eu.org/live.php?c=Colors_Cineplex&q=1200&e=junk.m3u8
+http://humiptv.live:8080/live/arijit38815/A437638815/98908.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Xplor
 http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4082
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",B4U Kadak
