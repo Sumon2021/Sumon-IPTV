@@ -289,6 +289,8 @@ http://humiptv.live:8080/live/arijit38815/A437638815/11737.ts
 http://humiptv.live:8080/live/arijit38815/A437638815/98842.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SELECT
 http://humiptv.live:8080/live/arijit38815/A437638815/98843.ts
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",HBO
+http://humiptv.live:8080/live/arijit38815/A437638815/185.ts
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Flix
 http://humiptv.live:8080/live/arijit38815/A437638815/9382.ts
 http://humiptv.live:8080/live/arijit38815/A437638815/98841.ts
