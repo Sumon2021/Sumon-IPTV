@@ -197,10 +197,10 @@ Indian Bangla
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Tom & Jerry
 http://humiptv.live:8080/live/arijit38815/A437638815/3545.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Dhammal Music
-https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Dil Se Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Dhammal Music
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",POP Music
@@ -237,18 +237,7 @@ http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
 http://208.86.19.13:81/675.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY পাকিস্তান
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",GEO পাকিস্তান
-http://208.86.19.13:81/603.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Times TV পাকিস্তান
-http://208.86.19.13:81/513.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",HUM Sitary PK
-http://208.86.19.13:81/692.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",EXpress PK
-http://208.86.19.13:81/643.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ARY Drama PK
-http://208.86.19.13:81/825.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Chu.Chu TV
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
 
