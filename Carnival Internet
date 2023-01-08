@@ -70,6 +70,7 @@ https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941033
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png"group-title="Bangla TV", RTV BD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 html#http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/playlist.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941036
@@ -120,9 +121,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yZb2MF1.jpg"group-title="Bangla TV",The Channel TV
-https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcLcP4d.jpg"group-title="Bangla TV",S TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
@@ -185,23 +183,28 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5gAXKp.jpg"group-title="Bangla TV",ম্যাজিক বাংলা
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZb2MF1.jpg"group-title="Bangla TV",The Channel TV
+https://cdn.appv.jagobd.com:444/live-orgin/thechanneltv.stream/chunks.m3u8
+
 ------------------------------------------------------------------------
 Indian Bangla
 ভারত বাংলা
 
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time HD
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Show Time সিনেমা
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Duronto TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দূরন্ত টিভি
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Chu.Chu TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Chu.Chu টিভি
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Tom & Jerry
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",টম & জেরী TV
 http://humiptv.live:8080/live/arijit38815/A437638815/3545.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sananda TV
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",সানন্দা টিভি
 http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
@@ -214,14 +217,15 @@ http://208.86.19.13:81/509.stream/index.m3u8
 http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",B-বাংলা টিভি
 http://208.86.19.13:81/504.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",AB TV Bangla
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",AB TV বাংলা
 http://208.86.19.13:81/501.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Gaan Bangla
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Time News বাংলা
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",গান বাংলা
 http://208.86.19.13:81/678.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",ABP News
 http://208.86.19.13:81/829.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Time News Bangla
-http://208.86.19.13:81/506.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",দ্বীপ্ত টিভি
 http://208.86.19.13:81/677.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",একাত্তর নিউজ
@@ -241,75 +245,44 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 ------------------------------------------------------------------------
 TATA SKY
 
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",T-Sports🏆
-http://103.143.235.50/LIVE2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",A-Sports
-http://103.143.235.50/ten/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sports 18
-http://tv.maguraplex.net:8000/live/sports18/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-PictureS
-http://103.143.235.50/andpictures/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony MAX HD
+http://103.166.102.58:8000/play/a00h
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Pictures HD
+http://103.166.102.58:8000/play/a017
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
+http://103.166.102.58:8000/play/a00z
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD
-http://103.143.235.50/stargold/tracks-v1a1/mono.m3u8
+http://103.166.102.58:8000/play/a012
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SE
+http://103.166.102.58:8000/play/a014
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&flix HD
+http://103.166.102.58:8000/play/a00p
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star MOVIES
-http://103.143.235.50/starmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies NOW
-http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
+http://103.166.102.58:8000/play/a00v
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SE
+http://103.166.102.58:8000/play/a00w
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
-http://103.143.235.50/sonypixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star WORLD
-http://103.143.235.50/star-worldhd/tracks-v1a1/mono.m3u8
+http://103.166.102.58:8000/play/a016
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
+http://103.166.102.58:8000/play/a01p
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star WORLD P
+http://103.166.102.58:8000/play/a00a
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
-http://103.143.235.50/bbcearth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Bangla
-http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NAT-GEO Wild
-http://103.143.235.50/National_Geographic/tracks-v1a1/mono.m3u8
+http://103.166.102.58:8000/play/a015
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Sci
+http://103.166.102.58:8000/play/a01k
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life
+http://103.166.102.58:8000/play/a01t
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Animal Planet
-http://103.143.235.50/animalplanent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star PLUS
-http://103.143.235.50/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE TV
-http://103.143.235.50/zeetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
-http://103.143.235.50/CN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NICK Cartoon
-http://103.143.235.50/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Gaan Bangla
-http://103.143.235.50/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
-http://103.143.235.50/sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.2
-http://103.143.235.50/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.3
-http://103.143.235.50/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.5
-http://103.143.235.50/SONY_SportsTen5_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BeIN Sports 1
-http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Bein Sports 2
-http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star SPORTS.1
-http://103.143.235.50/stersports1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star SPORTS.2
-http://103.143.235.50/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star SPORTS SE.1
-http://103.143.235.50/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star SPORTS SE.2
-http://103.143.235.50/select2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SKY Sports MAIN
-http://103.143.235.50/Sky_Sports_Main/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SKY Premiar League
-http://103.143.235.50/Sky_Sports_premier_league/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sky Sports F1
-http://103.143.235.50/sky_Sports_F1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BT Sports.1
-http://103.143.235.50/BT_Sport_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BT Sports.2
-http://103.143.235.50/BT_Sport_2/tracks-v1a1/mono.m3u8
-
+http://103.166.102.58:8000/play/a011
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",NAT-GEO Wild
+http://103.166.102.58:8000/play/a00i
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",History TV
+http://103.166.102.58:8000/play/a013
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY", TLC
+http://103.166.102.58:8000/play/a027
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery
+http://103.166.102.58:8000/play/a00y
 
 
 
@@ -364,6 +337,9 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 SPORTS.খেলাধুলা
 
 
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Willow cricket
+https://11live03.akamaized.net/FTX2_WILLOW/playlist.m3u8
+https://11live03.akamaized.net:443/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel 🎾
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports⭐
