@@ -3,7 +3,8 @@
 
 ★Bangla TV
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", R Music
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
@@ -36,6 +37,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Channel TT 
+https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", CAN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
@@ -46,6 +50,8 @@ http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg"group-title="Bangla TV", Nan TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Bangla TV",FB TV
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Matri Bhumi
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
@@ -199,19 +205,22 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Chu.Chu টিভি
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/906
-#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",টম & জেরী TV
-http://humiptv.live:8080/live/arijit38815/A437638815/3545.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",সানন্দা টিভি
 http://bdip.ddns.net:1895/live/iptv/chunklist_w906261752.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",আমার বাংলা
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",জি বাংলা
 http://102.222.232.18:9981/stream/channelid/633358552?ticket=650EBB054B7A482ED7B000F8FC9AD16C7E1271F2&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",স্টার জলসা
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",কালারস বাংলা
 http://102.222.232.18:9981/stream/channelid/1890795641?ticket=164467976C7B470DF3781F5C8735EF925FB84D74&profile=matroska
+
 
 #EXTINF:-1 tvg-logo=""group-title="ভারত বাংলা",iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
@@ -342,7 +351,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
 SPORTS.খেলাধুলা
 
-
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Toffee Sports
+https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeIN cricket
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=3C44E50C075881383C08D9C929ECEABEF6ACACFA&profile=matroska
 https://11live03.akamaized.net:443/FTX2_WILLOW/tracks-v1a1/mono.m3u8
@@ -447,14 +457,16 @@ World Network
 
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",CRACKLE
 https://crackle-plex.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Net.MAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Mytho Movies
 https://simultv.s.llnwi.net/o058/Mythos/interlink.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",My Cinema N
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",CINEMA ParsianA
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Dubai ONE
@@ -483,8 +495,12 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/206
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/199
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Mix Hollywood
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
-#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="World Network", Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="World Network",
 
 
