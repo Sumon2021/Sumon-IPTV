@@ -3,14 +3,17 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", R Music
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", R Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png"group-title="Bangla TV", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png"group-title="Bangla TV", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
@@ -37,8 +40,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/deshebideshe.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",Channel TT 
-https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg"group-title="Bangla TV", CAN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
@@ -50,8 +51,6 @@ http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg"group-title="Bangla TV", Nan TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Bangla TV",FB TV
-http://162.244.81.200:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Matri Bhumi
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
@@ -256,19 +255,21 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 ------------------------------------------------------------------------
 TATA SKY
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SIMBA TV
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SIMBA TV*
 http://102.222.232.18:9981/stream/channelid/71815417?ticket=568AAD92CB4A58C9AE3E1D184CBFD68C9BC297A0&profile=matroska
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony MAX HD
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony MAX HD*
 http://102.222.232.18:9981/stream/channelid/1079414242?ticket=95DBC0AB7E3701C2191BE75EB315EEE9D5B14FCC&profile=matroska
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Pictures HD
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",&-Pictures HD*
 http://102.222.232.18:9981/stream/channelid/1428660321?ticket=2127692198750766DE978DFBA6AB77D70E413F54&profile=matroska
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
-http://103.166.102.58:8000/play/a00z
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD*
+https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD
 http://103.166.102.58:8000/play/a012
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SE
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star GOLD SE*
 http://102.222.232.18:9981/stream/channelid/1289136274?ticket=4D3561953FC08883DED6B3B94125B6D7E4FE611D&profile=matroska
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",CinePlex
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",CinePlex*
 http://102.222.232.18:9981/stream/channelid/57589000?ticket=24D3D3DB404A35020C77A702590B10ECD6CD224F&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",&flix HD
 http://103.166.102.58:8000/play/a00p
@@ -276,14 +277,14 @@ http://103.166.102.58:8000/play/a00p
 http://103.166.102.58:8000/play/a00v
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies SE
 http://103.166.102.58:8000/play/a00w
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX*
 http://102.222.232.18:9981/stream/channelid/318926715?ticket=4C3B0B0D448502161C31F07085490CB42C097F3E&profile=matroska
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
 http://103.166.102.58:8000/play/a01p
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star WORLD P
 http://103.166.102.58:8000/play/a00a
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth
-http://103.166.102.58:8000/play/a015
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",BBC Earth*
+http://209.58.178.169:8002/play/a0du
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Sci
 http://103.166.102.58:8000/play/a01k
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Fox Life
@@ -356,6 +357,8 @@ https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_850.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BeIN cricket
 http://102.222.232.18:9981/stream/channelid/2100170847?ticket=3C44E50C075881383C08D9C929ECEABEF6ACACFA&profile=matroska
 https://11live03.akamaized.net:443/FTX2_WILLOW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",BT Sports 1
+https://hdstreamss.club:30443/live/abr_ch1/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",Tennis Channel 🎾
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS.খেলাধুলা",EDGE Sports⭐
@@ -536,15 +539,21 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 
 Cinema Ghor
 
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kung Fu Hustle 2004
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",007 Casino Royel
+https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVVlXTyUkMZpHaqp1RGxmT6lEeaRkTp5UbVpnTq1keZRlQt5UbO1mWE1UP:1669767735:103.149.143.103:e8593f8efcbab963a06c4a3802566685feb5521f6b640312c4dcd139440cf862/720/index.m3u8
+
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Black Adams (2022)
+https://t-eu-3.onthecloudcdn.com/_v10/94d260b0390bf2844191b55b87e13c5b88d2ecacbb0a1847e5c2ae6f19bc60bbed128938bbae1307b419634d5ae5a528e4f392f43cd51d553f6c6b93bb99383aee07d6b5bfe0f3fe219913557b1c186f75fd8cdcbd06be1a53b67fb53bbc9ebd7d0afb211a6d1bdc4b23242cd5a367e4317550d38a4c82aa46799c183f3cef33/1080/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kung Fu Hustle (2004)
 https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keClmTHV0dPdUT4p1VFBjWXFFNORFbtl1VGpmWtZUbZp3az40VKx2TXVVP:1670023687:103.149.143.103:8118bc8161000b41f977472f6a8f1415ac8574a023a243d3ada7c29122b8cfc6/1080/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kite 2014
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Kite (2014)
 https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaFlnWEhWbZ1mRt1kenVjWHZVbPRUQxkleWxmT6FENNRkQqllMOxWT6FUP:1670029262:103.149.143.103:0867ca8277e88e664a58455d05fd0ad8dfdc93e5b8086f0c637c82b373abc72c/720/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",RED 2 (2013)
 https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleClmWqFEeOREZs5kaFVTT6tWNNpXS4pFVk1WW6t2MNdkVqlFVolmTq1UP:1670029463:103.149.143.103:07cfcc34efe2687ad6e72a2a172cec9e5c9fb6ba238101725fef7cab2206f15f/1080/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider 2007
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider (2007)
 https://cdn4574.sparkle-industries-i-205.site/stream2/i-arch-400/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaJlXTyYEbOpXU5pFRkxWWtpVbO1WUw0kajpnTHFFNPRlTp5ERotmWXlUP:1670029655:103.149.143.103:201ffa6a60edf2538a1a49bfb03a47adbd19aba84ee1200e36896b6b1405adc7/480/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider 2 Spirit of Vengeance 2012
+#EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Ghost Rider 2 Spirit of Vengeance (2012)
 https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290VSxmWEt2dapWWy4kaFVjWE5EbO1WT450RO1WTEJUaNp3Yy80RKtmTqtWP:1670030707:103.149.143.103:f580cb5cece38f18d84280782daa7966d45785e23e79db3da8e1e10c32833952/720/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="সিনেমা ঘর",Behind Enemy Lines 2001
 https://cdn4507.sparkle-industries-i-205.site/stream2/i-cdn-0/839a0ddc2ccb9b2a2b95ee815ddf0e9b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMRd3TEhWbOpmUq50ROp2TEt2MZpWR450RNpXTUFENO1mVq1ERFRjTEFUP:1670029937:103.149.143.103:96a271bdacb02cc34c01019a38e1707fa963a430d0135467cb333bf408a84e54/720/index.m3u8
