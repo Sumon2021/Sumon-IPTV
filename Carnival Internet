@@ -187,7 +187,8 @@ http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/69347
 
 Sumon 4K TV
 
-
+#EXTINF:-1 tvg-logo="New Logo"group-title="SUMON 4K",MBC Bollywood
+http://100.64.16.15:2020/mbc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="New Logo"group-title="SUMON 4K",MBC Persia 4K
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/218
 #EXTINF:-1 tvg-logo="New Logo"group-title="SUMON 4K",CINEMA ParsianA
