@@ -3,20 +3,17 @@
 
 ★Bangla TV
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", T-Sports M
+http://manik-freecatv.zapto.org/Tsportshd/index.m3u8?fbclid=IwAR1n2HOH2vSRWoBxqMy0-fw0YpKMcwHlrivAJzXvsLTmG-VU5wT8rKZj4Vo
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Star Sports M
+http://manik-freecatv.zapto.org/stersports1hd/index.m3u8?fbclid=IwAR1oG61DcykPcJL2NzPVHrViEIte54gBVmH9Wfd4R9AT1VIaxWiES7_mT78
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV", T-Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV", Astro Cricket
 https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Discovery Bangla
-https://astraliv.com/proxy/proxify?url=t2S2ugkaD/qDs5nhnHMEhKMC2Xp37H4JUWr3dkll0Dcr7F3DZih4zicvrcR3mO9z
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Travel XP
-https://astraliv.com/proxy/proxify?url=t2S2ugkaD/qDs5nhnHMEhEqN6%2BNfG0WhBG6ZrMAx5Bkaj4P5XBUkZYDBob7MgnIB
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Nat Geo Bangla
-https://astraliv.com/proxy/proxify?url=t2S2ugkaD/qDs5nhnHMEhNlCXGBU9cvJqHzjLx48Ecq%2B2a5ybfgI4cyzzD9TyIdE
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
