@@ -5,7 +5,9 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV", T-Sports
 http://stream1.asbd.top:8083/1101/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Star Sports
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Star Sports 1
+http://100.64.16.15:2020/AstroCricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Star Sports SE
 http://stream1.asbd.top:7444/1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",SETMAX HD
@@ -14,6 +16,8 @@ http://stream1.asbd.top:7444/1607/tracks-v1a1/mono.m3u8
 http://stream1.asbd.top:7444/1611/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MBC Bolywood
 http://100.64.16.15:2020/mbc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV Beats
+http://100.64.16.15:2020/MTVBeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Star Movies
 http://stream1.asbd.top:7444/1605/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",STAR JALSHA HD
