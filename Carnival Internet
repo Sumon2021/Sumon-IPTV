@@ -7,27 +7,30 @@
 http://stream1.asbd.top:8083/1101/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV", Star Sports
 http://stream1.asbd.top:7444/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", G-Sports
-http://stream.asbd.top/gazi-tv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", Star Cricket
-http://stream1.asbd.top:7444/1025/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TRAVEL XP HD
-http://stream1.asbd.top:7444/1903/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",DISCOVERY BANGLA
-http://stream1.asbd.top:7444/1905/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",NATIONA GEOGRAPHIC
-http://stream1.asbd.top:7444/1910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",SETMAX HD
 http://stream1.asbd.top:7444/1607/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",ZEE CINEMA HD
 http://stream1.asbd.top:7444/1611/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MBC Bolywood
+http://100.64.16.15:2020/mbc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Star Movies
+http://stream1.asbd.top:7444/1605/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",STAR JALSHA HD
 http://stream1.asbd.top:7444/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",ZEE BANGLA HD
 http://www.tvcdn.hoichoi24.com:8083/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",SONY AATH
 http://stream1.asbd.top:7444/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",TRAVEL XP HD
+http://stream1.asbd.top:7444/1903/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",NATIONA GEOGRAPHIC
+http://stream1.asbd.top:7444/1910/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",ANIMAL PLANET
+http://stream1.asbd.top:7444/1909/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV",DISCOVERY BANGLA
+http://stream1.asbd.top:7444/1905/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="Bangla TV", VOICE TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
