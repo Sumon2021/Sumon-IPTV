@@ -11,7 +11,7 @@ http://100.64.16.15:2020/Sports18HD/tracks-v1a1/mono.m3u8
 http://100.64.16.15:2020/AstroCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MBC Bolywood
-http://100.64.16.15:2020/mbc/tracks-v1a1/mono.m3u8
+http://100.64.16.15:2020/MBCBollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV Beats
 http://100.64.16.15:2020/MTVBeats/tracks-v1a1/mono.m3u8
 
