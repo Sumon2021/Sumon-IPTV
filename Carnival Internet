@@ -3,19 +3,6 @@
 
 ★Bangla TV
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV", T-Sports
-http://stream1.asbd.top:8083/1101/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Sports 18 HD
-http://100.64.16.15:2020/Sports18HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",Astro Cricket
-http://100.64.16.15:2020/AstroCricket/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MBC Bolywood
-http://100.64.16.15:2020/MBCBollywood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MTV Beats
-http://100.64.16.15:2020/MTVBeats/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Green TV
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
