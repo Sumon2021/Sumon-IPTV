@@ -8,9 +8,9 @@
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",ICC World Cup
 http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",MBC Bollywood
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", MBC Bollywood
 http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla TV",M Movies
+#EXTINF:-1 tvg-logo="" group-title="Bangla TV", M Movies
 http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png"group-title="Bangla TV", DBC News
