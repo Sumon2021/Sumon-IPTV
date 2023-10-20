@@ -7,15 +7,16 @@
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",Green TV
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV",ICC World Cup
+http://10.20.30.30:8888/LiveEvent-1/tracks-v1a1/mono.m3u8
 http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Fox Cricket 501
-http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
+http://10.20.30.30:8888/LiveEvent-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Super Cricket
-http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
+http://10.20.30.30:8888/LiveEvent-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV", MBC Bollywood
-http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
+http://10.20.30.30:8888/MBCBollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangla TV",Bangla Movies
-http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
+http://10.20.30.30:8888/MoviesHD-1/tracks-v1a1/mono.m3u8
 
 
 
